@@ -1,0 +1,20 @@
+services:
+  eng_project:
+    container_name: eng_project
+    build:
+      context: ./
+    image: patlew/eng_project:latest
+    network_mode: host
+    volumes:
+      - /home/macale/ceai/plewicka_ws:/mnt/ws
+    command: zsh
+    env_file: env
+    tty: true
+    stdin_open: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
