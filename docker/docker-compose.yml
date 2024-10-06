@@ -6,8 +6,8 @@ services:
     image: patlew/eng_project:latest
     network_mode: host
     volumes:
-      - /home/macale/ceai/plewicka_ws:/mnt/ws
-    command: zsh
+      - ~/plewicka_ws:/mnt/ws
+    command: bash
     env_file: env
     tty: true
     stdin_open: true
