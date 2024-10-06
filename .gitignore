@@ -154,5 +154,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-./*.pt
-
+yolov5s.pt
+ProductDetection-4/
