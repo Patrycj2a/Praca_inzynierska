@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1155770</id>
+      <size>117</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-08-16 15:44:54.162528+00:00</created>
+      <updated>2024-09-12 12:52:48.659123+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>116</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1157946</id>
+          <start>0</start>
+          <stop>116</stop>
+          <url>https://app.cvat.ai/api/jobs/1155770</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>patrycja6</username>
+        <email>patrycja.lewicka@samorzad.agh.edu.pl</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>czworokat</name>
+          <color>#ff007c</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>szesciokat</name>
+          <color>#3d3df5</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>osmiokat</name>
+          <color>#66ff66</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>dwunastokat</name>
+          <color>#33ddff</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-09-12 12:54:14.265433+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1073.30,574.91;1111.52,543.61;1160.10,549.10;1189.40,587.10;1183.83,638.12;1144.88,667.97;1096.90,661.36;1067.06,622.96" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="914.96,827.00;973.09,798.69;1029.20,835.10;1022.13,900.80;963.49,927.60;909.90,892.72" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="552.71,717.10;629.15,760.17;589.11,840.24;513.28,795.96" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="772.87,447.11;797.72,425.63;827.21,418.05;861.33,429.42;884.08,453.85;890.40,484.18;878.60,517.88;855.86,538.95;821.73,546.95;788.46,534.73;767.81,510.72;761.92,477.02" z_order="0">
+    </polygon>
+  </image>
+  <image id="1" name="10.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1010.50,991.12;1037.04,949.00;1082.11,938.89;1123.70,964.40;1134.20,1010.60;1110.70,1051.10;1064.60,1062.90;1018.90,1039.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1437.20,1047.30;1483.18,1008.64;1540.40,1024.79;1553.04,1084.82;1506.70,1127.29;1447.38,1107.63" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1106.42,575.34;1186.90,613.70;1149.39,695.82;1067.24,655.80" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="709.90,739.80;736.96,720.82;769.96,715.20;800.15,726.43;822.27,753.81;826.13,791.02;812.09,821.21;786.11,841.22;754.17,844.74;722.22,831.04;701.86,805.42;698.00,772.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="2" name="100.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1285.53,513.23;1310.10,473.70;1358.40,464.70;1399.33,494.51;1407.52,543.36;1382.95,581.68;1333.50,589.90;1292.85,562.67" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="820.40,598.40;874.30,558.20;934.00,583.30;944.20,647.30;891.80,689.90;828.90,663.10" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="526.60,730.50;613.00,747.34;596.15,835.80;507.69,817.69" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="952.00,953.90;968.13,929.34;993.87,912.37;1027.80,910.30;1059.10,923.80;1076.37,955.37;1078.40,986.40;1063.50,1015.60;1033.70,1034.10;999.43,1035.24;969.88,1020.90;951.50,991.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="3" name="101.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="997.38,691.09;1027.22,653.94;1078.10,649.80;1115.57,679.98;1119.37,731.46;1087.48,769.49;1037.75,772.42;1000.01,741.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1333.46,1035.88;1380.20,992.30;1437.70,1008.90;1451.10,1069.20;1406.10,1113.80;1345.00,1096.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="912.00,909.60;992.30,948.60;955.80,1029.00;872.29,990.35" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="333.32,814.84;345.90,787.63;369.59,769.20;397.97,765.98;429.86,778.86;448.29,802.55;453.55,835.61;442.44,867.79;414.35,887.39;382.17,888.56;354.38,875.98;336.54,849.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="4" name="102.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1115.00,430.20;1154.61,402.38;1205.16,409.54;1233.00,449.60;1227.90,496.70;1187.50,526.60;1136.92,519.48;1106.59,476.94" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1166.80,1002.10;1192.10,943.50;1252.70,932.60;1291.06,980.17;1268.73,1041.25;1203.00,1050.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="881.73,648.89;965.60,681.90;931.58,767.54;845.58,731.73" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="604.27,780.84;615.15,752.76;641.13,732.75;673.07,727.13;702.21,737.31;725.73,761.19;731.35,794.18;719.76,826.48;695.54,847.89;662.19,853.51;632.35,843.33;608.83,817.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="5" name="103.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="971.20,823.04;982.15,793.55;1007.42,771.23;1039.02,765.33;1067.24,772.91;1092.52,799.03;1098.84,829.78;1089.15,863.90;1063.03,886.65;1030.17,892.97;998.58,882.86;977.09,858.43" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="400.18,459.62;453.68,426.77;508.03,455.41;510.13,521.97;456.21,554.41;400.61,524.08" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="410.25,1019.47;496.19,1013.57;505.90,1102.90;419.90,1106.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1351.17,765.58;1362.12,717.98;1404.25,693.55;1451.01,703.66;1473.75,747.89;1462.38,794.23;1422.78,820.34;1371.81,806.86" z_order="0">
+    </polygon>
+  </image>
+  <image id="6" name="104.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="965.76,811.08;983.88,782.85;1015.05,767.27;1050.40,770.20;1076.55,788.33;1090.87,818.66;1088.77,852.78;1069.39,882.27;1038.22,894.06;1003.67,892.80;976.29,875.11;961.55,840.99" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1230.15,895.14;1283.86,860.04;1340.38,889.88;1342.48,956.23;1287.72,986.77;1232.25,958.68" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1000.68,454.19;1088.31,476.52;1065.56,564.14;977.09,540.97" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1409.25,606.41;1450.32,579.38;1494.91,586.40;1523.34,627.82;1514.22,678.02;1476.30,704.70;1426.10,695.58;1400.48,650.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="7" name="105.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="602.02,542.91;618.87,512.36;646.60,497.97;678.90,497.62;709.09,515.52;722.43,540.45;722.08,576.96;707.69,603.29;681.01,621.19;646.60,622.94;616.80,605.00;600.62,576.61" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1058.06,800.55;1110.72,764.32;1169.27,789.17;1173.90,854.00;1121.20,892.00;1063.11,863.73" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="456.50,1040.10;532.62,1005.16;574.40,1083.80;495.80,1119.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1165.02,451.87;1186.08,409.75;1233.26,395.85;1276.65,418.59;1289.71,466.20;1266.12,509.58;1219.36,523.06;1177.23,499.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="8" name="106.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="252.06,617.85;286.12,622.42;307.88,643.83;319.11,673.67;313.85,705.97;295.80,731.30;261.90,742.20;230.10,736.40;205.90,713.20;197.65,685.61;203.27,650.50;224.68,625.93" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="828.50,356.60;892.50,346.10;933.80,394.10;913.60,454.40;847.90,465.70;806.57,417.71" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="862.81,1093.82;952.50,1093.80;952.20,1184.00;862.40,1183.60" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1497.00,332.50;1544.72,336.70;1574.56,375.32;1570.70,423.40;1535.60,450.80;1488.55,446.93;1457.66,407.96;1457.31,363.38" z_order="0">
+    </polygon>
+  </image>
+  <image id="9" name="107.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="261.60,337.60;292.10,328.00;324.00,335.80;349.10,359.10;354.80,395.50;345.20,422.70;322.54,446.55;292.98,451.62;261.92,446.85;239.80,425.00;231.20,391.00;239.80,360.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="832.88,288.65;896.52,277.47;938.22,323.48;919.30,385.40;853.90,396.60;810.95,349.28" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="281.75,1049.96;368.34,1056.22;365.66,1145.51;278.50,1138.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="851.20,716.80;898.50,701.30;942.40,722.80;957.83,771.39;934.18,818.26;887.32,832.02;842.17,809.66;828.41,761.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="10" name="108.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1562.40,390.40;1643.60,415.70;1621.70,500.80;1538.31,473.76" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1542.81,1050.01;1608.40,1058.30;1629.16,1116.30;1590.10,1167.20;1529.91,1159.66;1507.69,1098.03" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1021.78,688.47;1065.49,666.97;1112.07,682.38;1133.93,729.32;1116.37,777.33;1070.51,797.76;1023.21,778.77;1001.35,733.26" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="257.90,371.30;291.20,367.30;319.80,379.50;335.63,407.48;339.22,438.65;321.66,471.62;294.43,489.17;263.61,491.68;236.38,476.99;220.30,454.40;217.70,418.20;232.80,389.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="11" name="109.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="802.14,836.92;850.29,837.35;885.55,869.60;886.10,922.50;850.30,956.90;800.00,954.70;766.02,916.90;766.02,871.32" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="975.80,683.00;1066.60,683.80;1066.14,775.43;974.99,774.57" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="943.20,869.20;1007.70,861.90;1046.80,910.40;1022.29,971.94;956.93,978.82;919.10,928.50" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="813.75,661.92;847.28,661.49;876.60,677.80;890.70,704.10;893.80,732.90;874.40,771.10;849.05,785.75;813.32,787.47;784.94,770.27;767.70,742.80;766.40,709.60;782.79,679.12" z_order="0">
+    </polygon>
+  </image>
+  <image id="12" name="11.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1519.60,356.90;1588.80,409.90;1540.80,481.60;1466.95,427.15" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="506.90,415.90;554.64,376.53;612.27,398.02;622.42,459.24;572.00,500.70;515.20,477.80" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1095.62,590.46;1146.90,581.90;1186.60,609.40;1194.70,661.80;1167.40,700.30;1115.00,708.80;1076.21,680.29;1066.75,629.53" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="811.37,690.74;847.80,695.82;873.18,717.02;883.00,746.30;879.45,778.53;857.66,806.90;826.01,817.94;794.65,813.17;768.97,793.46;757.63,762.40;762.10,726.90;783.00,701.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="13" name="110.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="308.72,310.05;382.90,348.39;342.80,427.20;266.80,388.90" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1070.87,724.45;1136.44,718.00;1171.90,770.30;1144.68,828.72;1081.26,834.09;1045.79,779.63" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1606.60,339.70;1649.60,357.20;1670.33,401.67;1653.85,447.18;1610.85,465.45;1567.14,446.46;1548.86,403.82;1563.60,359.00" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="199.54,939.11;228.21,934.46;257.59,944.13;278.73,967.42;286.97,1002.54;277.66,1031.56;252.20,1053.80;219.97,1056.64;193.45,1048.76;172.31,1024.04;165.15,990.71;174.46,959.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="14" name="111.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="914.10,717.69;1002.68,715.11;1005.30,805.40;916.70,807.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1037.90,912.90;1080.90,865.60;1145.00,877.60;1163.90,938.30;1122.21,985.14;1056.90,973.50" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1046.11,717.69;1091.69,701.78;1136.83,722.85;1153.60,768.90;1133.80,814.00;1083.52,830.77;1039.20,808.00;1025.47,760.69" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="928.72,849.69;962.26,844.96;994.50,859.60;1013.43,882.80;1016.00,918.50;1005.70,948.60;980.32,967.08;949.36,971.38;913.24,960.63;891.74,935.69;888.30,900.86;901.20,869.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="15" name="112.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1051.80,786.60;1141.22,787.47;1140.40,877.80;1047.48,876.91" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1050.92,649.02;1115.00,662.80;1133.48,721.69;1090.05,771.13;1025.10,758.20;1007.90,696.30" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1194.50,777.60;1241.40,767.70;1284.00,795.20;1292.60,844.70;1266.30,882.90;1217.30,893.30;1175.19,866.59;1167.45,815.85" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1185.94,632.68;1217.33,623.65;1248.71,627.95;1273.30,652.00;1282.30,680.80;1275.80,713.09;1254.70,738.50;1223.35,747.92;1190.67,742.33;1166.16,719.97;1156.70,689.01;1164.90,655.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="16" name="113.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="946.30,1107.30;1036.10,1104.70;1038.71,1190.71;947.56,1193.72" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="177.97,328.83;224.91,290.13;280.81,311.63;287.62,371.82;239.96,411.24;185.10,388.30" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1018.07,754.11;1063.70,735.60;1110.10,751.10;1131.60,796.70;1113.96,841.39;1067.95,862.46;1021.90,847.00;1002.60,801.80" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1620.06,311.34;1651.95,314.92;1676.32,334.27;1688.86,361.86;1685.63,395.90;1668.40,421.30;1639.77,431.74;1604.30,429.94;1581.72,404.50;1570.61,375.84;1572.76,347.17;1591.40,323.17" z_order="0">
+    </polygon>
+  </image>
+  <image id="17" name="114.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1193.72,776.68;1283.16,771.09;1287.50,861.40;1198.00,866.50" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1209.60,610.30;1271.12,623.18;1290.00,681.20;1249.20,731.10;1186.41,719.49;1166.63,657.15" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1084.50,766.40;1128.79,762.92;1167.49,795.60;1169.64,846.34;1135.70,882.90;1087.50,884.60;1050.97,849.78;1051.00,801.60" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1084.90,606.00;1118.50,607.30;1145.10,624.90;1161.90,652.42;1161.90,685.10;1142.12,714.33;1115.00,728.60;1083.20,727.70;1053.10,710.90;1037.60,681.70;1038.93,648.55;1056.13,620.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="18" name="115.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1018.60,1085.10;1108.80,1090.50;1102.20,1177.70;1011.70,1172.90" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1514.61,951.91;1574.10,939.00;1612.79,984.51;1594.16,1042.56;1533.60,1057.20;1494.90,1012.82" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1037.50,254.30;1084.80,239.30;1126.73,261.50;1142.85,308.44;1121.00,350.72;1074.41,364.34;1029.63,342.48;1016.70,293.70" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="665.83,1018.54;695.10,1015.10;728.18,1028.01;748.39,1055.09;751.83,1083.90;740.20,1114.40;716.10,1132.10;681.30,1136.40;652.10,1123.90;633.20,1099.80;628.40,1065.80;643.47,1032.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="19" name="116.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="969.50,711.40;1057.70,705.20;1066.00,794.50;974.10,800.63" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1132.51,877.00;1196.49,867.71;1234.67,915.69;1211.50,975.00;1145.40,984.30;1109.29,936.33" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="969.50,891.40;1015.40,871.30;1061.30,888.90;1080.40,931.69;1065.90,975.50;1020.50,996.70;974.10,983.29;954.00,933.80" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1105.70,713.90;1125.29,688.66;1159.34,672.67;1187.70,675.80;1215.58,695.37;1228.00,724.30;1224.90,758.30;1206.30,783.10;1175.85,798.05;1141.30,796.00;1118.60,776.90;1103.10,744.91" z_order="0">
+    </polygon>
+  </image>
+  <image id="20" name="117.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="723.53,274.58;763.50,247.80;811.80,255.70;840.10,295.50;829.70,342.80;789.58,366.43;741.56,359.98;714.33,320.57" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1558.86,1091.65;1587.53,1089.14;1616.55,1100.25;1631.60,1122.82;1635.90,1155.79;1623.00,1184.81;1600.78,1198.43;1536.60,1198.40;1519.80,1176.90;1516.90,1137.90;1534.50,1107.40;1546.30,1097.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1132.53,876.52;1197.50,867.10;1233.15,916.08;1208.60,975.80;1145.90,984.40;1109.31,934.14" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="167.70,643.90;249.00,639.10;254.20,727.30;172.90,731.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="21" name="12.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="654.75,375.87;741.80,350.40;767.26,437.86;679.12,461.87" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="343.60,766.20;406.30,765.80;436.04,821.33;408.80,875.10;343.90,875.40;312.80,819.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1431.90,476.30;1476.70,458.00;1519.30,474.20;1537.94,520.03;1522.17,566.25;1479.17,583.81;1436.89,569.47;1416.47,522.89" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1052.38,1011.46;1082.84,1004.29;1115.44,1013.97;1138.02,1039.05;1145.18,1069.15;1136.22,1100.32;1108.28,1124.33;1073.16,1130.42;1045.21,1122.54;1022.64,1097.10;1015.47,1066.64;1025.86,1034.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="22" name="13.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="654.40,377.10;742.10,350.50;767.05,437.34;678.90,463.57" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="343.50,766.70;404.50,766.30;434.20,822.17;408.40,875.50;344.80,875.90;312.09,820.45" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="864.87,702.60;908.21,680.41;956.72,697.44;978.40,740.30;961.40,787.70;915.40,809.90;869.50,793.90;847.84,748.52" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1439.91,432.39;1474.00,425.60;1501.20,434.90;1523.50,459.60;1531.50,496.80;1519.78,525.26;1496.87,543.22;1462.20,550.65;1434.95,539.51;1414.52,509.79;1408.33,488.11;1415.10,454.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="23" name="14.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1403.00,1047.00;1459.40,1115.70;1389.48,1170.77;1333.23,1104.84" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1080.15,444.06;1135.70,412.90;1193.00,447.30;1191.20,509.60;1133.90,542.24;1079.07,508.92" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="655.33,788.08;697.25,760.85;744.91,768.38;772.90,809.20;764.60,856.10;725.60,883.00;677.20,876.20;646.70,835.40" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="572.50,415.20;552.76,442.10;549.47,478.23;562.01,507.19;591.87,528.69;619.94,528.99;656.40,512.90;674.20,484.70;675.20,449.30;661.40,426.30;634.60,406.00;602.30,403.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="24" name="15.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1335.10,1106.10;1403.90,1048.00;1458.00,1113.60;1389.90,1170.90" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1174.40,455.10;1238.48,455.57;1267.72,510.18;1237.62,566.51;1173.98,564.79;1142.60,509.30" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="312.73,909.12;353.15,884.61;400.40,894.50;424.96,935.34;415.90,981.80;378.95,1006.29;328.21,998.12;301.55,956.84" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="600.30,238.30;633.50,235.20;663.50,249.00;679.40,273.50;680.32,309.20;667.85,339.73;644.63,353.49;612.81,357.36;579.71,346.61;561.22,319.95;559.50,285.99;573.69,256.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="25" name="16.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1404.00,1048.00;1459.00,1114.60;1390.22,1171.83;1332.60,1104.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="804.00,852.70;866.80,836.40;912.80,881.60;896.00,943.90;832.36,959.38;788.10,914.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1507.50,391.90;1555.90,392.90;1588.20,430.60;1587.80,476.80;1554.20,509.00;1507.19,508.67;1475.30,471.76;1474.23,425.89" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1060.70,550.30;1095.51,544.28;1128.62,556.32;1149.26,582.11;1154.85,614.79;1140.23,647.04;1116.58,667.68;1087.34,673.27;1051.65,661.66;1031.44,638.44;1025.43,604.04;1037.03,569.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="26" name="17.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="683.80,792.60;773.70,805.20;760.10,893.70;671.60,881.90" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1451.20,443.00;1509.60,430.40;1550.05,478.46;1532.13,537.94;1473.37,550.12;1431.80,502.50" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="509.00,450.90;548.40,424.40;598.60,435.50;621.90,474.90;611.83,522.93;574.60,548.70;523.00,540.50;497.88,500.00" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1060.20,550.50;1098.48,543.63;1129.40,556.10;1149.65,580.18;1154.38,614.15;1141.48,645.54;1117.83,666.18;1088.16,671.77;1050.70,660.20;1032.70,638.20;1025.38,604.26;1036.56,571.15" z_order="0">
+    </polygon>
+  </image>
+  <image id="27" name="18.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1077.70,876.00;1154.70,920.40;1107.80,999.60;1030.77,954.49" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1448.40,442.40;1507.50,431.70;1550.48,477.53;1532.56,539.16;1474.87,550.63;1429.72,502.97" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="586.60,963.30;628.72,937.11;675.20,943.60;704.40,984.40;696.70,1034.20;657.50,1061.80;605.50,1051.50;579.30,1012.80" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="565.20,423.70;596.13,420.27;627.95,431.88;650.31,456.39;653.32,489.93;645.15,514.87;617.20,538.51;587.10,547.97;553.60,536.40;529.90,508.80;527.80,471.90;537.70,444.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="28" name="19.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1078.10,877.20;1154.60,921.50;1109.06,998.85;1030.80,952.84" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="947.68,580.12;991.75,533.18;1056.20,544.30;1076.30,608.10;1032.96,653.93;969.89,642.46" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="806.20,816.10;836.28,776.04;884.43,768.30;922.70,796.68;930.90,844.40;902.50,884.40;854.30,893.00;813.06,864.18" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="563.31,423.32;596.60,419.00;626.70,430.10;648.20,455.20;653.20,488.50;641.78,518.27;619.60,539.10;586.60,547.30;550.05,535.47;530.30,510.40;527.10,473.80;539.30,443.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="29" name="2.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="897.94,571.54;974.90,619.70;924.59,697.52;849.80,648.10" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="566.80,269.80;629.58,274.98;653.70,332.60;617.11,384.19;551.30,379.50;528.54,318.84" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1256.20,543.90;1300.50,525.90;1344.77,543.93;1364.12,589.51;1345.60,633.40;1302.20,654.01;1256.63,635.09;1237.30,591.60" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="996.80,1020.50;1024.78,1004.14;1062.19,1002.42;1089.28,1018.76;1104.30,1045.40;1103.47,1078.96;1090.10,1104.80;1060.47,1123.25;1028.70,1125.00;997.26,1110.35;980.50,1080.70;980.92,1046.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="30" name="20.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="505.10,771.30;582.30,809.90;544.60,891.20;465.20,850.32" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="952.60,709.30;1016.80,713.80;1042.40,773.10;1005.60,827.40;940.95,821.55;914.02,762.75" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="832.41,211.27;880.40,219.80;908.72,259.30;898.84,307.78;857.55,335.61;807.28,325.28;782.59,284.89;791.10,237.80" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="328.70,336.60;361.51,334.84;392.40,351.90;405.95,378.83;407.29,409.81;390.68,438.98;366.00,455.14;334.58,459.63;303.20,444.80;287.89,416.54;286.55,380.63;302.71,354.15" z_order="0">
+    </polygon>
+  </image>
+  <image id="31" name="21.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="395.90,486.30;460.10,543.30;400.40,612.50;337.50,552.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1332.90,572.60;1389.70,586.80;1408.80,647.40;1366.20,694.50;1306.70,680.69;1288.75,616.72" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="957.38,911.86;1001.81,891.66;1048.05,909.17;1066.90,952.70;1048.50,999.80;1004.51,1019.14;957.38,1002.08;937.63,957.20" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="839.16,560.55;876.20,559.30;903.40,575.80;920.20,602.30;921.10,639.40;904.30,668.40;874.70,685.20;839.78,685.23;810.17,666.84;794.89,639.41;795.52,604.81;811.72,575.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="32" name="22.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1212.10,435.70;1289.90,481.30;1245.70,558.40;1167.18,512.74" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="954.77,707.77;1008.70,742.99;1004.33,805.02;947.00,834.30;893.70,798.80;899.91,731.15" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="476.30,971.10;514.90,947.70;562.78,956.16;589.28,997.20;581.10,1044.30;540.80,1071.50;493.50,1059.00;465.89,1019.54" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="655.70,358.40;669.50,328.10;697.56,308.65;729.73,305.66;760.80,319.10;779.50,346.10;781.00,380.10;768.60,408.20;742.40,424.20;708.03,429.47;677.40,417.10;658.66,390.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="33" name="23.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="540.60,615.60;587.30,691.20;511.80,738.00;466.50,661.30" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1422.10,503.70;1467.80,510.10;1497.70,548.20;1492.46,597.61;1453.56,627.16;1406.80,619.30;1378.00,582.30;1383.61,532.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="923.00,661.10;970.70,646.40;1015.60,668.60;1031.50,718.70;1007.80,762.70;960.10,777.00;915.21,753.65;900.87,703.47" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="683.00,1029.28;711.57,1019.67;747.16,1025.13;771.06,1045.13;779.89,1071.36;776.30,1107.50;755.70,1131.90;725.80,1142.00;691.40,1136.30;667.40,1114.50;656.20,1086.70;661.20,1052.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="34" name="24.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1192.30,874.90;1265.60,928.90;1212.40,1001.10;1137.90,948.00" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="519.60,847.70;583.80,838.70;623.30,890.30;601.74,949.61;533.06,957.69;496.71,906.97" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="902.20,714.00;946.60,695.20;992.40,709.10;1014.88,756.24;997.82,800.68;953.38,822.22;906.25,806.51;886.10,758.90" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="798.50,333.00;828.51,318.87;860.68,321.11;888.36,340.11;902.39,368.17;900.22,401.83;882.15,428.35;851.29,444.55;817.63,442.98;791.44,424.61;777.42,394.35;778.65,360.39" z_order="0">
+    </polygon>
+  </image>
+  <image id="35" name="25.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="428.90,576.40;502.60,530.70;548.95,606.66;473.01,652.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1292.20,448.70;1352.40,430.00;1398.80,473.40;1386.50,536.20;1326.60,553.81;1278.73,512.29" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="692.12,1003.93;737.94,992.39;780.96,1013.59;794.70,1062.20;770.00,1102.70;721.40,1113.60;680.60,1090.30;667.20,1043.50" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="889.70,674.40;918.40,657.30;951.40,656.70;981.36,673.82;997.30,700.30;997.90,737.10;983.23,763.60;953.30,781.99;921.20,782.00;890.70,765.80;873.82,737.72;872.88,701.88" z_order="0">
+    </polygon>
+  </image>
+  <image id="36" name="26.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="446.90,631.20;532.90,642.40;521.68,731.86;434.40,719.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="746.60,339.80;810.20,337.20;843.51,389.94;813.59,447.91;748.90,448.70;716.33,394.42" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1303.50,489.00;1326.58,447.83;1371.78,434.74;1413.86,457.81;1428.20,504.25;1405.80,547.60;1361.80,560.36;1316.92,536.36" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1056.30,973.50;1073.86,948.81;1104.53,932.73;1136.70,931.60;1165.50,949.90;1178.96,975.74;1178.59,1011.65;1159.50,1040.10;1131.50,1054.70;1098.50,1054.30;1071.99,1037.83;1053.70,1009.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="37" name="27.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="611.90,767.60;702.40,771.30;699.30,862.40;607.31,858.27" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="346.90,517.20;396.50,475.70;456.00,497.90;463.80,561.50;414.90,602.00;357.81,579.84" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="983.01,593.40;1026.65,571.58;1075.28,586.54;1096.50,630.80;1083.40,675.70;1036.00,698.76;989.87,685.98;967.10,641.40" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1240.30,329.30;1269.30,309.30;1299.50,308.10;1330.40,324.60;1346.90,351.10;1349.68,382.59;1335.96,412.52;1307.91,430.59;1277.36,432.15;1246.50,415.90;1228.70,389.80;1225.93,357.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="38" name="28.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1336.40,813.00;1425.20,808.00;1429.60,896.20;1339.80,902.74" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="348.30,516.90;395.40,476.40;454.60,497.30;462.70,560.60;416.29,600.79;358.30,579.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="857.90,1020.10;899.81,999.12;945.40,1013.00;969.00,1056.70;952.60,1102.40;912.20,1124.80;862.78,1111.71;840.00,1065.70" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="487.70,829.10;510.90,807.01;546.10,799.90;571.13,807.75;593.60,832.10;602.20,865.00;593.94,894.53;570.38,920.34;537.50,926.00;506.80,915.90;485.80,892.30;477.60,858.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="39" name="29.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="858.70,351.80;947.59,350.87;949.83,438.85;859.16,440.64" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1120.30,656.80;1172.40,619.10;1230.10,647.10;1235.10,709.80;1183.60,747.50;1124.70,720.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="869.60,664.40;914.90,645.60;961.70,667.90;979.00,712.20;960.40,758.30;913.20,776.70;868.46,757.85;849.01,711.47" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1293.10,369.40;1314.40,347.30;1345.80,339.10;1377.21,347.29;1399.66,371.61;1407.90,404.10;1400.03,434.07;1378.30,457.30;1350.66,464.37;1317.36,457.27;1295.30,433.70;1285.20,401.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="40" name="3.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="898.10,570.30;974.80,619.20;925.10,697.70;849.20,647.20" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="521.50,801.60;564.20,756.40;625.70,770.30;644.90,829.00;603.30,878.10;539.27,862.77" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="999.18,1020.52;1025.60,1004.70;1053.80,1002.20;1084.95,1016.25;1103.70,1045.70;1104.60,1077.70;1088.80,1105.40;1059.78,1124.21;1023.50,1123.79;997.05,1108.00;981.26,1080.69;979.60,1045.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1313.00,553.50;1346.33,517.70;1393.30,513.90;1428.69,546.72;1431.25,594.94;1401.40,632.10;1353.58,634.63;1316.88,602.19" z_order="0">
+    </polygon>
+  </image>
+  <image id="41" name="30.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="482.44,721.07;569.50,723.10;570.52,811.20;481.93,810.69" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1085.40,1079.00;1108.00,1019.70;1168.60,1007.70;1209.56,1054.66;1189.50,1113.10;1126.80,1125.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="686.70,402.50;723.73,373.67;773.20,377.30;803.74,414.92;800.18,465.41;759.29,493.51;708.44,489.59;680.00,451.90" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="768.90,907.00;793.60,884.80;828.60,878.80;858.90,887.40;879.80,911.30;887.90,945.40;877.70,974.90;858.91,995.77;822.22,1004.30;787.22,996.62;766.31,971.87;758.63,938.59" z_order="0">
+    </polygon>
+  </image>
+  <image id="42" name="31.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1268.98,526.29;1321.30,455.20;1393.10,507.40;1342.24,580.70" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="560.00,375.27;573.20,346.10;597.34,330.10;632.20,325.50;661.35,338.99;680.20,365.00;683.10,400.50;671.30,426.80;643.60,447.50;606.60,449.90;580.30,438.20;560.36,407.98" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="919.20,570.90;956.20,536.40;1006.00,537.10;1040.50,574.10;1039.40,623.20;1002.50,657.30;950.20,658.00;918.90,621.10" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="497.30,735.90;531.80,684.00;595.20,686.10;621.80,746.20;588.70,798.20;524.40,794.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="43" name="32.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1374.75,437.56;1376.03,408.54;1394.40,381.70;1426.80,368.40;1456.70,371.40;1483.10,391.90;1495.90,419.60;1493.40,455.50;1473.70,481.10;1446.44,493.46;1408.88,487.49;1382.85,464.87" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="906.50,870.50;997.18,879.25;987.97,966.31;896.82,959.65" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="317.70,738.70;363.40,696.00;421.80,712.60;436.40,773.70;393.27,817.65;334.00,798.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="903.81,638.89;932.40,599.20;982.30,593.20;1021.20,623.50;1028.00,673.00;998.97,711.86;950.32,719.12;909.35,689.67" z_order="0">
+    </polygon>
+  </image>
+  <image id="44" name="33.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="668.25,307.37;751.50,277.90;782.19,358.15;696.84,389.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1016.63,961.03;1063.15,921.35;1122.04,937.99;1137.80,998.60;1091.70,1042.10;1031.10,1024.60" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="558.45,795.50;582.35,757.10;628.44,748.56;670.70,775.00;683.10,819.40;660.40,860.40;609.20,871.90;569.12,845.43" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="963.76,658.44;976.99,628.57;1006.01,609.36;1035.45,605.52;1067.03,618.32;1087.51,646.92;1087.09,681.05;1076.42,708.79;1050.82,730.13;1015.82,732.69;985.53,719.89;965.47,694.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="45" name="34.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="644.78,910.55;670.39,886.65;700.70,879.40;734.40,889.20;755.30,910.55;762.99,940.85;754.90,975.00;731.83,997.18;703.24,1006.14;670.81,999.74;645.21,975.41;636.20,942.60" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1460.65,451.56;1542.20,483.60;1511.85,568.06;1428.22,533.06" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="617.60,460.18;652.60,408.50;717.50,410.70;745.19,467.01;710.20,519.49;645.76,517.79" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1408.59,894.25;1447.40,864.80;1496.90,872.10;1522.95,910.04;1515.70,957.40;1477.70,987.70;1429.92,981.30;1401.33,942.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="46" name="35.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1459.40,451.20;1540.80,482.50;1512.60,567.00;1430.20,534.22" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="752.50,432.60;809.30,402.70;863.90,436.90;860.90,498.80;806.30,529.48;750.00,497.50" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="903.80,710.70;925.30,665.70;975.50,649.80;1017.00,672.30;1033.34,720.46;1010.30,765.50;964.70,780.90;918.63,760.91" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="595.10,767.30;613.00,737.90;639.49,722.92;673.63,722.06;703.93,737.42;720.10,765.60;721.00,797.20;705.20,826.60;677.50,843.70;645.04,845.39;614.74,829.60;597.67,802.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="47" name="36.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1173.88,276.94;1248.56,326.87;1202.05,400.26;1125.20,350.30" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="321.30,845.60;335.10,814.40;365.80,797.50;394.52,795.94;423.20,810.28;442.14,834.34;443.68,863.53;431.39,895.79;406.81,915.25;375.06,918.84;346.40,906.50;324.30,880.40" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="714.59,491.34;754.77,463.60;802.78,471.78;831.58,508.76;822.34,559.97;784.60,588.40;734.10,580.60;706.41,540.77" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1260.90,922.00;1288.25,867.68;1352.20,862.80;1385.90,912.70;1359.90,969.90;1294.60,975.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="48" name="37.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="822.80,651.60;840.20,622.00;868.91,606.57;901.17,606.06;932.41,621.93;949.40,649.60;948.30,682.40;933.43,713.08;905.27,729.47;870.45,731.52;841.26,715.13;823.33,684.41" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1117.57,1050.44;1151.37,1013.57;1202.58,1013.57;1236.90,1046.90;1238.90,1095.00;1205.65,1129.81;1151.90,1132.40;1118.10,1097.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1206.79,514.12;1265.70,488.90;1316.00,527.30;1307.50,590.90;1251.59,614.82;1199.53,578.13" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="667.00,940.20;757.70,946.90;753.59,1034.46;661.40,1026.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="49" name="38.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1007.20,369.60;1036.22,330.32;1084.87,324.78;1124.60,354.60;1132.70,401.20;1102.80,441.30;1052.00,446.00;1016.16,422.50" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1483.10,820.60;1544.59,758.66;1603.00,823.70;1539.98,885.14" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="355.30,593.60;372.20,563.40;397.30,546.50;428.60,544.40;460.30,560.30;477.73,585.37;477.73,618.15;464.93,647.33;440.90,666.80;405.53,669.86;373.80,654.00;356.90,624.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="357.10,932.80;390.90,883.60;450.85,887.24;479.00,945.10;446.75,996.31;384.80,989.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="50" name="39.png" width="1920" height="1200">
+    <polygon label="szesciokat" source="manual" occluded="0" points="1245.00,754.70;1304.90,734.00;1352.20,777.70;1338.30,840.54;1279.20,861.60;1231.43,818.34" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="481.43,417.89;516.20,386.30;564.10,387.20;597.03,423.31;593.00,470.30;556.80,504.10;509.43,503.24;478.30,467.10" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="915.49,568.72;945.80,560.10;979.17,567.82;1003.55,589.94;1013.00,620.20;1006.26,652.26;981.43,678.91;950.72,687.49;917.75,680.71;894.30,658.60;885.24,627.43;892.00,593.10" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="814.60,738.90;889.80,790.00;837.20,863.50;763.00,810.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="51" name="4.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="416.22,810.32;433.80,781.40;461.40,768.80;493.40,769.70;522.30,788.60;537.20,814.80;535.90,847.80;521.89,872.19;490.28,889.80;454.20,888.00;431.57,872.19;415.30,841.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1057.10,727.90;1118.53,663.82;1184.01,725.24;1121.20,791.20" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="675.16,490.59;729.80,457.60;788.50,488.30;787.60,550.70;733.90,585.00;676.51,556.07" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="867.86,1011.77;878.77,968.11;923.90,942.50;968.70,953.10;994.30,992.95;983.00,1040.40;940.49,1065.96;892.70,1053.91" z_order="0">
+    </polygon>
+  </image>
+  <image id="52" name="40.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1472.10,442.50;1544.30,492.20;1499.17,567.18;1423.31,517.51" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="812.90,642.70;840.89,602.72;889.40,592.60;930.00,619.30;940.20,670.10;913.13,711.11;863.40,719.40;823.17,693.06" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1015.20,490.40;1027.40,462.40;1054.90,442.09;1087.41,437.58;1119.48,449.77;1138.89,476.41;1143.40,511.20;1130.80,539.60;1105.48,558.60;1070.71,563.57;1039.55,551.38;1019.68,526.54" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="601.14,849.74;650.37,809.10;710.88,829.87;722.60,894.90;669.78,936.00;612.40,914.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="53" name="41.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1438.99,452.72;1461.70,408.80;1509.40,398.00;1547.90,426.70;1560.40,467.90;1537.62,510.71;1493.73,523.17;1448.75,498.79" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="780.29,680.79;802.50,656.00;830.72,647.30;861.58,650.68;889.00,672.90;901.80,705.60;893.90,741.40;874.70,765.10;839.00,774.87;808.50,768.80;785.18,748.53;770.13,711.65" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1085.80,827.80;1172.50,849.00;1149.24,934.05;1061.99,913.99" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="631.01,394.42;662.98,341.31;726.93,341.85;756.19,394.96;726.90,449.70;662.40,451.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="54" name="42.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1084.50,828.70;1171.23,847.21;1148.20,935.70;1060.59,913.15" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="630.00,395.80;665.18,340.22;728.40,340.67;759.11,394.86;726.14,448.60;661.10,450.00" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1082.30,481.60;1124.44,455.63;1170.70,464.70;1197.10,504.20;1186.53,554.98;1147.02,578.69;1099.60,570.41;1075.10,524.90" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="300.10,734.40;313.27,705.02;339.60,685.80;366.70,684.30;397.19,696.37;417.51,723.09;420.90,755.08;412.62,782.17;379.88,806.26;351.28,808.51;321.60,795.70;302.70,768.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="55" name="43.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1084.80,827.00;1172.90,847.30;1148.74,935.15;1060.62,912.57" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="867.60,697.10;870.20,663.60;888.70,637.30;919.20,622.60;953.40,625.62;980.90,644.10;995.20,674.20;993.30,706.90;974.10,733.63;945.10,750.60;910.87,748.30;883.03,730.61" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="618.50,1039.20;617.30,989.20;650.80,957.60;698.60,955.70;733.25,991.07;737.40,1040.40;702.80,1075.40;652.70,1075.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="630.62,394.82;662.99,341.38;726.59,340.63;757.82,393.32;726.60,450.10;661.90,449.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="56" name="44.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1315.40,460.00;1402.00,487.10;1376.39,572.94;1291.71,547.35" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="682.80,740.30;684.00,675.10;739.90,643.70;795.69,677.30;794.70,741.00;736.73,771.07" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1080.14,897.07;1115.30,862.60;1165.80,861.30;1199.30,893.00;1197.10,943.80;1162.60,979.57;1112.70,980.20;1077.00,944.40" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="516.10,490.30;530.45,463.99;556.00,441.00;588.80,436.90;624.15,456.09;637.70,478.29;641.46,506.51;630.17,537.00;604.21,559.95;569.96,564.09;539.50,552.40;519.16,524.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="57" name="45.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="372.40,928.60;398.70,887.50;444.30,879.60;487.50,905.20;495.45,952.65;469.90,993.30;422.44,1002.32;384.10,977.10" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="683.70,674.60;740.55,643.91;796.10,677.30;795.20,742.00;737.39,772.16;682.70,739.20" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1315.90,459.70;1399.90,486.30;1376.40,573.50;1291.49,546.37" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="851.40,327.60;871.36,301.98;902.22,288.43;933.83,291.82;962.05,309.51;975.20,341.10;970.30,377.60;950.40,403.20;920.70,414.50;890.60,410.40;863.50,392.30;847.65,360.69" z_order="0">
+    </polygon>
+  </image>
+  <image id="58" name="46.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="275.50,942.40;293.90,915.30;321.40,901.40;353.00,902.10;380.82,921.71;393.99,946.93;394.75,981.55;382.70,1009.40;355.20,1024.80;318.73,1023.70;293.14,1008.64;277.30,978.90" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="388.49,401.77;432.29,357.06;492.80,370.60;508.20,433.80;467.50,479.00;402.94,463.63" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1315.50,460.40;1400.20,486.00;1376.12,571.81;1290.70,547.00" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1068.70,823.00;1103.30,791.00;1150.70,792.48;1186.50,828.20;1183.10,877.90;1147.70,910.30;1097.27,909.14;1065.28,873.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="59" name="47.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="812.30,795.40;834.50,749.10;883.40,735.51;924.05,753.19;942.90,802.90;923.30,845.00;874.70,863.10;830.34,843.51" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="884.20,362.90;953.40,420.90;895.10,489.70;825.07,431.06" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="244.50,586.90;284.03,539.82;347.60,553.40;362.70,610.20;324.70,660.60;262.20,646.70" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1235.98,578.11;1256.37,555.84;1290.24,546.75;1320.34,553.65;1343.86,574.35;1353.27,609.47;1344.18,645.53;1321.60,665.60;1291.49,673.76;1260.13,665.92;1237.60,645.20;1228.46,611.98" z_order="0">
+    </polygon>
+  </image>
+  <image id="60" name="48.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="636.50,818.70;674.48,789.77;724.16,796.09;754.90,830.00;753.50,877.40;713.32,911.25;664.09,905.38;632.03,866.99" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="243.30,588.00;283.00,539.70;345.40,553.70;362.50,609.30;325.95,658.95;263.17,646.75" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="826.40,431.00;883.70,362.90;954.00,420.50;895.70,489.00" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1161.39,995.51;1180.96,967.66;1210.30,953.00;1244.20,956.40;1268.60,972.60;1282.20,1002.70;1279.60,1036.50;1261.12,1062.87;1233.65,1075.29;1199.00,1075.70;1173.10,1058.40;1159.90,1035.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="61" name="49.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="1285.91,524.04;1307.55,482.02;1354.30,467.60;1396.60,491.70;1411.00,536.90;1388.15,581.75;1342.05,594.92;1301.00,573.00" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="244.10,587.80;285.54,538.54;342.70,551.30;363.80,609.30;324.70,659.30;263.70,646.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="883.90,362.50;953.51,421.16;895.20,490.00;824.10,432.10" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="753.42,774.00;763.60,740.50;789.50,719.80;819.70,713.40;850.90,722.10;873.80,747.30;881.37,778.90;874.20,813.90;849.40,835.30;815.51,841.74;785.03,833.09;761.70,809.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="62" name="5.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="236.01,1032.80;242.79,1004.20;264.61,980.87;291.71,971.46;320.31,976.73;347.78,999.31;357.19,1028.66;353.43,1054.63;333.50,1084.70;299.23,1094.90;268.75,1085.11;244.67,1064.41" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1159.30,542.60;1208.53,508.70;1264.10,541.20;1266.33,604.44;1212.14,636.95;1157.00,604.00" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="608.46,442.76;677.70,385.94;733.40,454.43;664.16,512.38" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="852.20,1004.70;865.65,961.14;908.61,935.74;951.58,945.15;980.12,987.49;966.90,1035.20;925.55,1058.99;876.90,1047.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="63" name="50.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1102.10,483.70;1127.00,458.00;1158.60,448.00;1190.70,455.90;1215.60,480.20;1225.50,512.90;1216.80,545.40;1192.78,569.41;1159.72,577.60;1128.42,567.95;1107.94,549.22;1097.41,515.87" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="427.66,1013.50;449.36,956.45;512.80,946.80;550.10,994.80;528.80,1055.60;467.10,1062.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1133.60,813.40;1220.00,823.30;1206.60,912.40;1118.90,901.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="531.34,439.26;573.12,409.78;623.30,417.20;649.30,459.60;641.60,505.70;600.10,533.70;551.40,527.40;523.30,488.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="64" name="51.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="744.40,363.70;760.90,337.70;791.50,320.50;826.90,322.30;855.00,339.80;870.10,367.50;868.00,404.40;851.50,428.31;819.20,444.46;789.36,445.86;760.20,429.70;743.70,400.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1359.80,739.00;1446.10,754.80;1430.30,841.60;1343.41,827.02" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1146.50,708.20;1234.30,694.20;1249.50,782.60;1161.15,799.52" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="899.10,839.80;934.60,784.00;997.40,784.40;1029.30,839.80;997.04,895.31;929.60,896.00" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="895.83,563.78;922.16,521.65;969.55,511.82;1012.73,537.10;1021.90,585.90;997.64,629.07;946.00,640.30;905.70,615.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="633.53,816.11;665.13,762.75;727.60,761.30;761.00,815.40;729.02,871.93;665.48,872.28" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="410.08,931.55;425.20,873.40;485.10,857.40;530.14,903.75;515.00,963.10;452.20,978.31" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="215.30,835.40;252.80,807.60;299.20,817.30;323.60,856.50;319.40,904.50;280.21,931.04;233.00,920.90;206.06,881.34" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="874.64,1050.14;901.60,1033.50;934.30,1031.70;960.65,1039.31;978.79,1060.67;984.93,1098.99;971.20,1127.70;944.85,1146.97;910.00,1150.20;881.66,1137.31;860.90,1112.20;858.26,1078.51" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="528.10,440.70;569.90,410.10;618.60,416.80;646.00,457.90;640.10,506.00;601.10,536.20;550.90,529.13;522.10,488.10" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="272.87,547.46;317.80,505.33;374.60,527.80;384.20,585.40;340.30,627.80;283.40,605.73" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1134.40,417.70;1146.60,388.10;1177.40,368.40;1209.00,367.50;1237.20,379.70;1256.60,409.60;1260.40,441.30;1248.59,469.05;1220.78,486.33;1188.35,491.38;1158.44,479.16;1138.64,454.31" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1488.51,415.71;1507.46,391.84;1536.25,383.41;1565.03,387.62;1592.80,411.10;1602.95,441.69;1594.90,474.30;1577.30,495.70;1543.60,507.30;1514.10,500.70;1491.70,478.90;1481.84,449.06" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1654.51,622.69;1695.37,599.94;1738.34,614.68;1758.56,657.65;1743.39,702.30;1701.27,723.37;1657.90,708.20;1639.76,664.81" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1503.99,918.86;1515.22,894.99;1538.74,875.68;1571.04,872.17;1605.40,888.30;1621.24,913.25;1621.94,946.60;1606.10,974.30;1578.40,994.70;1548.20,996.10;1513.82,975.73;1503.64,948.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="65" name="52.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1307.30,1019.19;1341.20,1016.90;1371.00,1032.70;1385.90,1058.00;1385.42,1091.44;1372.33,1117.18;1344.30,1137.10;1310.90,1139.30;1281.60,1127.10;1265.30,1096.41;1264.40,1061.18;1279.75,1035.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1097.99,678.38;1184.80,651.00;1210.00,735.20;1124.11,763.05" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="927.60,901.80;1010.10,936.60;972.00,1018.50;888.90,982.50" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="427.90,476.40;448.50,434.26;495.68,416.14;539.07,438.47;554.65,478.91;536.96,529.04;493.57,545.05;443.40,525.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="125.32,806.49;171.82,798.40;208.22,827.72;216.81,870.69;192.04,912.64;145.03,920.23;107.60,892.90;97.52,848.44" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="312.86,764.03;318.93,720.05;360.40,688.70;408.90,698.30;429.60,735.20;429.10,778.20;390.20,812.05;341.20,805.50" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="620.79,663.93;675.55,632.33;729.90,663.93;729.90,730.48;676.40,761.70;618.26,727.96" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="868.50,612.10;901.35,555.66;965.80,554.40;997.80,608.70;967.90,667.70;900.92,668.14" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1343.50,736.00;1428.50,744.80;1419.30,834.60;1334.20,826.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="655.79,932.03;700.70,888.10;762.20,906.00;778.70,967.10;730.91,1012.77;670.20,993.10" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="415.85,956.32;445.80,918.40;492.10,913.80;531.70,944.90;536.80,991.30;507.30,1030.00;460.10,1033.40;422.20,1002.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="11.20,1084.50;45.70,1045.30;104.20,1053.50;125.00,1110.50;87.80,1158.80;28.15,1148.25" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1647.18,665.65;1658.06,620.37;1699.13,598.25;1741.26,611.59;1764.43,654.07;1753.90,696.55;1711.40,722.90;1670.00,710.24" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1136.05,418.17;1147.60,390.10;1173.60,370.80;1205.90,368.00;1237.51,381.31;1257.50,406.60;1260.70,440.60;1244.50,473.60;1211.88,490.83;1185.90,493.29;1155.71,479.95;1137.81,453.62" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1487.04,416.50;1506.64,392.22;1537.94,382.86;1568.08,390.46;1593.53,414.16;1602.80,442.60;1597.40,471.80;1576.85,497.82;1547.60,507.20;1514.83,501.63;1491.14,477.93;1481.80,448.70" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1504.27,918.58;1519.01,889.80;1544.99,873.65;1576.20,872.90;1605.72,888.74;1622.57,915.77;1621.52,948.07;1609.23,973.70;1581.30,995.60;1546.90,996.80;1515.15,978.61;1501.11,948.42" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="159.52,460.80;210.49,432.15;257.67,458.69;258.93,519.35;210.07,553.05;157.41,522.30" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="711.90,219.80;732.09,195.79;761.57,181.88;793.59,183.99;821.39,202.95;834.87,230.33;831.50,263.61;812.12,288.04;788.11,301.10;753.15,303.21;726.61,287.20;709.80,253.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="953.79,297.90;1032.15,337.92;991.28,415.43;911.25,376.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="66" name="53.png" width="1920" height="1200">
+    <polygon label="osmiokat" source="manual" occluded="0" points="967.06,266.57;977.47,223.00;1019.09,198.94;1067.86,210.65;1093.22,250.32;1080.21,301.69;1041.20,324.45;989.82,315.34" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1613.03,292.49;1641.02,270.81;1674.40,269.00;1701.50,282.60;1721.00,311.50;1722.30,343.10;1710.12,369.26;1684.40,385.50;1647.80,385.10;1627.10,376.40;1604.90,345.80;1601.70,316.00" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1222.58,1067.60;1241.55,1043.75;1269.73,1032.37;1307.50,1036.00;1329.34,1057.30;1340.18,1088.73;1332.60,1122.90;1310.40,1146.70;1281.11,1156.47;1248.10,1150.50;1230.17,1133.71;1217.70,1107.20" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1135.65,640.57;1147.84,610.32;1173.13,592.71;1205.20,588.19;1237.26,598.13;1257.10,622.10;1261.70,655.50;1248.50,690.20;1223.26,710.07;1188.04,714.64;1159.13,702.89;1139.26,677.60" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="705.69,218.02;718.30,188.70;746.30,168.80;776.60,166.10;805.95,176.93;828.53,204.02;829.43,234.73;818.14,262.73;790.14,283.50;758.08,288.92;727.37,277.18;707.95,250.09" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="542.46,797.98;559.39,770.14;588.37,754.33;624.50,754.70;651.22,771.27;667.40,800.99;664.77,835.24;650.84,861.58;620.36,878.14;584.61,877.39;559.02,862.71;540.96,830.35" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1658.36,622.96;1697.20,599.00;1739.65,610.77;1764.94,652.32;1753.20,699.30;1713.46,722.76;1669.20,711.02;1645.72,664.96" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1006.20,691.79;1049.01,646.81;1113.50,661.44;1133.00,720.51;1088.03,770.36;1024.10,755.20" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1226.53,302.34;1229.13,257.47;1266.19,226.26;1313.02,230.81;1344.90,269.80;1341.60,317.30;1305.21,345.91;1255.79,338.75" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1052.90,417.44;1081.51,378.42;1130.28,372.57;1168.65,403.78;1175.80,449.95;1144.59,493.52;1097.12,498.08;1056.15,464.26" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="736.38,554.63;771.07,519.95;820.92,518.86;856.10,556.30;856.69,602.32;823.09,638.08;769.44,638.62;736.38,604.48" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="88.37,1056.31;123.14,1007.54;180.04,1009.34;208.50,1064.00;176.88,1116.82;117.30,1114.10" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="157.20,462.50;209.13,429.05;257.90,458.40;257.40,518.00;207.30,553.70;156.74,523.43" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="812.09,873.01;873.00,849.50;922.20,890.60;912.30,952.04;850.43,975.52;801.66,936.23" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="335.40,648.50;389.08,614.40;445.43,644.75;447.60,708.15;393.41,744.46;338.68,714.11" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="141.48,717.53;183.75,674.17;241.73,689.35;258.53,744.08;215.72,793.39;158.28,778.22" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1341.70,736.70;1427.80,744.20;1419.10,835.30;1333.00,825.50" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1032.42,936.73;1121.80,950.30;1106.48,1039.24;1017.97,1024.79" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="641.21,986.22;728.80,988.50;729.72,1076.09;639.85,1074.73" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="357.20,967.90;442.20,943.00;468.20,1028.10;383.20,1052.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="445.20,428.10;533.30,443.00;518.80,529.70;429.90,516.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="67" name="54.png" width="1920" height="1200">
+    <polygon label="dwunastokat" source="manual" occluded="0" points="769.00,730.74;797.85,721.96;832.97,725.41;856.81,743.91;869.35,775.90;865.00,810.70;844.26,835.80;811.96,847.71;778.72,841.75;754.57,819.17;743.28,789.38;749.24,753.32" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="619.22,887.54;648.20,878.13;682.20,887.40;704.60,908.10;715.30,942.10;706.70,975.20;685.70,998.30;651.60,1005.90;618.70,998.50;595.40,973.90;586.11,942.48;595.51,907.11" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1246.71,1043.11;1271.92,1032.95;1307.29,1038.60;1330.63,1059.30;1340.79,1090.15;1332.90,1121.00;1309.60,1145.10;1279.10,1156.80;1246.30,1150.40;1223.75,1130.42;1213.96,1098.43;1221.90,1065.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="807.89,1050.44;838.14,1011.15;883.30,1005.73;924.40,1029.21;932.98,1077.98;904.08,1119.53;855.76,1126.30;816.00,1096.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="460.10,421.30;548.60,426.30;541.41,514.76;452.89,510.25" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="389.10,724.60;443.32,655.21;510.00,711.00;456.30,779.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="357.20,975.50;438.44,945.13;468.20,1030.20;387.00,1057.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1032.90,937.00;1121.20,951.10;1106.07,1038.33;1016.12,1024.24" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1364.60,652.30;1445.89,680.27;1419.25,766.52;1335.70,736.72" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="156.90,462.40;209.54,429.83;258.80,457.40;258.31,520.16;207.30,554.00;157.14,521.52" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="30.30,920.70;60.40,869.10;119.10,870.24;148.07,923.68;122.11,976.74;58.88,976.36" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="91.70,1065.90;124.90,1016.94;184.17,1022.59;210.51,1073.39;179.15,1127.96;116.43,1122.94" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="910.94,581.78;975.07,570.94;1017.50,620.20;995.84,679.32;927.65,691.06;886.55,641.84" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1122.55,754.83;1166.81,710.57;1228.70,725.50;1243.58,785.53;1197.97,834.31;1136.10,815.80" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="680.90,591.98;704.84,549.53;752.70,535.99;794.25,558.57;809.60,607.34;785.70,651.10;737.80,664.24;694.00,640.30" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="887.70,405.60;913.00,382.50;945.52,376.21;978.04,386.14;998.36,407.82;1007.00,442.10;997.00,476.00;972.17,496.33;940.11,503.56;911.20,496.78;886.82,472.85;878.24,436.72" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1635.30,296.40;1666.90,295.60;1694.76,312.14;1712.10,340.70;1712.40,370.10;1698.52,399.07;1670.67,414.50;1637.93,415.63;1613.85,402.46;1599.17,375.74;1596.16,343.38;1604.81,316.28" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1543.61,994.61;1574.77,993.71;1601.41,1005.90;1617.22,1034.35;1617.22,1070.03;1599.20,1098.50;1569.30,1114.30;1539.10,1114.70;1512.00,1096.67;1498.90,1071.38;1498.45,1036.61;1516.96,1006.35" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1376.17,449.24;1420.42,431.17;1464.20,448.30;1482.74,494.85;1463.32,540.01;1420.42,555.81;1378.42,539.55;1357.70,489.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1230.44,255.71;1265.12,226.99;1314.43,231.87;1345.32,269.26;1340.99,318.03;1307.93,344.04;1255.91,339.71;1227.73,307.19" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1046.73,410.16;1078.70,372.20;1128.56,367.89;1166.50,399.90;1170.80,448.10;1138.86,485.48;1089.00,489.82;1052.69,462.18" z_order="0">
+    </polygon>
+  </image>
+  <image id="68" name="55.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="419.55,940.15;474.49,875.05;544.10,933.00;487.28,999.23" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1033.40,937.25;1121.84,950.80;1106.40,1039.20;1017.60,1024.94" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1366.30,652.98;1448.30,680.80;1419.74,767.38;1336.95,737.65" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="644.60,342.20;707.28,332.09;748.30,380.26;726.48,440.47;663.50,452.40;620.35,403.59" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="489.90,513.00;532.10,464.90;595.66,478.40;610.70,538.60;569.30,587.50;507.60,574.00" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="159.30,460.90;212.72,427.75;259.70,458.20;258.60,520.30;211.20,553.40;159.30,523.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="216.60,854.90;243.71,798.44;306.50,795.70;339.00,848.57;312.40,905.50;250.50,907.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="539.09,710.38;597.80,689.16;646.12,730.25;637.99,793.02;577.50,817.00;529.16,775.41" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="988.21,709.10;1051.24,695.62;1094.83,745.79;1072.57,806.32;1007.65,817.92;966.25,769.31" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="599.77,1059.37;614.44,1012.33;655.84,993.14;699.87,1005.56;725.08,1050.34;708.90,1098.13;667.13,1118.45;620.46,1102.27" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="575.16,65.35;619.19,48.04;663.59,63.47;681.70,104.90;665.50,150.00;618.81,169.97;573.60,154.90;556.00,110.50" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="803.77,481.79;862.50,414.10;933.20,473.10;870.38,541.62" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="340.93,449.12;422.22,420.90;449.31,505.95;365.00,534.20" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1057.60,74.30;1103.20,57.00;1149.80,73.60;1167.50,115.70;1151.34,161.24;1103.93,180.05;1061.40,165.00;1040.71,120.97" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1051.88,357.15;1099.68,343.98;1142.20,367.31;1156.90,414.70;1133.60,457.20;1086.10,470.40;1042.50,447.50;1028.93,400.05" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1141.56,477.72;1179.49,449.27;1228.70,455.10;1257.20,493.10;1252.20,544.56;1212.91,573.91;1164.14,566.24;1136.14,527.40" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="773.88,670.60;798.71,650.73;829.87,643.95;861.48,655.24;884.06,680.98;889.03,712.60;879.10,746.92;853.40,768.10;818.58,773.11;788.30,761.80;768.01,735.17;761.23,700.85" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="758.84,912.75;788.94,903.35;820.56,908.62;848.40,930.44;858.60,960.90;852.20,995.50;829.20,1019.60;799.11,1029.42;766.00,1022.60;741.53,1001.94;728.73,969.96;737.00,936.50" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1245.58,1042.55;1273.80,1032.01;1309.93,1038.79;1331.38,1059.11;1340.41,1088.46;1333.60,1121.20;1312.60,1145.70;1279.82,1158.08;1246.33,1150.55;1224.13,1129.86;1215.09,1095.99;1221.87,1063.25" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1520.37,1009.51;1546.71,994.46;1576.44,993.70;1603.91,1009.13;1617.10,1033.20;1617.50,1070.50;1598.20,1100.50;1570.40,1115.30;1542.19,1115.26;1517.73,1101.33;1499.67,1072.35;1500.42,1038.49" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1635.90,297.60;1667.50,296.10;1693.51,310.00;1711.20,338.60;1713.84,370.59;1699.91,398.81;1673.19,416.12;1640.45,418.38;1617.50,406.34;1599.06,376.98;1593.79,337.09;1611.48,312.26" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="905.19,62.00;939.80,60.90;968.00,75.90;985.70,101.50;985.35,132.00;971.80,157.59;940.57,179.41;912.34,179.04;881.86,165.11;863.42,137.27;863.42,104.52;879.98,76.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="69" name="56.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="804.64,481.28;864.25,414.09;933.61,473.15;870.21,543.06" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="266.40,341.30;336.30,289.80;385.10,360.80;310.85,411.76" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="329.10,502.90;399.00,449.70;451.00,520.70;380.60,574.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="646.66,774.15;735.63,784.53;725.24,873.50;635.83,862.66" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="993.40,988.66;1062.65,930.71;1120.60,1000.30;1049.10,1057.20" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1367.20,652.10;1447.51,680.59;1419.91,767.46;1336.80,738.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="489.77,511.59;533.04,464.55;593.63,478.48;612.10,540.20;570.70,588.00;507.83,573.31" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="643.68,344.33;706.91,330.78;748.90,379.55;727.60,441.80;662.60,453.30;622.01,403.93" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="159.35,461.04;210.20,429.10;260.33,456.34;260.33,518.12;211.10,553.90;159.67,522.19" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="283.50,762.41;343.70,757.50;377.60,807.60;353.88,865.90;293.70,870.00;257.54,819.24" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="795.57,1023.43;856.90,999.70;904.70,1041.50;894.90,1102.80;834.00,1125.80;783.90,1084.80" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="991.72,779.50;1045.30,742.20;1101.80,769.80;1107.10,832.50;1053.80,872.00;994.23,843.17" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="556.41,111.86;574.10,66.33;619.60,47.90;663.67,63.32;680.60,104.30;664.04,150.62;620.39,169.82;574.90,155.10" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="422.50,237.40;449.59,196.79;495.65,185.50;535.39,209.89;542.20,254.60;514.62,294.79;472.62,308.33;432.43,284.40" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="461.40,857.10;506.50,836.40;550.17,847.73;573.50,889.50;562.96,935.79;517.40,961.80;471.14,945.95;448.56,904.55" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1218.78,445.93;1266.20,440.28;1305.30,468.90;1312.49,518.93;1282.80,557.70;1238.35,564.84;1199.20,534.40;1188.68,489.20" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="977.90,256.20;1029.40,254.30;1064.80,287.40;1065.92,336.72;1030.17,371.71;983.50,372.47;948.88,341.99;945.90,291.20" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="877.70,78.10;904.78,60.80;938.65,60.04;966.87,74.72;983.80,100.70;985.31,133.80;970.26,163.53;941.28,178.96;910.80,178.96;883.70,165.41;864.89,138.32;863.01,104.83" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1057.60,75.40;1103.60,58.00;1148.00,72.00;1167.90,116.80;1149.09,161.54;1104.30,179.23;1061.40,164.92;1040.33,120.90" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="772.02,654.75;803.64,657.00;835.20,674.20;849.25,701.71;850.60,731.97;832.54,765.39;801.83,781.64;768.86,780.29;742.20,762.20;725.96,731.97;726.40,696.30;743.57,670.10" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="856.92,633.07;870.92,600.10;898.47,582.49;933.24,580.23;961.24,593.33;980.70,620.90;982.46,654.75;968.92,686.81;941.37,703.52;905.24,706.68;877.70,692.23;858.28,663.33" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="498.80,1100.32;525.52,1079.62;557.10,1075.10;585.73,1085.64;610.60,1112.00;615.80,1144.30;603.79,1174.83;579.33,1195.15;545.09,1198.16;514.60,1187.62;494.66,1163.16;489.77,1130.04" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1477.62,941.36;1490.79,913.13;1516.38,897.33;1548.37,895.44;1577.34,909.74;1595.00,935.30;1593.90,970.30;1578.50,1000.40;1551.00,1016.30;1520.90,1018.90;1492.67,1002.70;1476.86,974.47" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1467.67,1047.20;1491.82,1033.08;1521.61,1031.20;1550.47,1044.37;1566.77,1072.28;1565.52,1107.41;1550.20,1135.30;1521.90,1151.00;1487.75,1152.25;1463.91,1137.20;1447.30,1116.80;1450.11,1077.93" z_order="0">
+    </polygon>
+  </image>
+  <image id="70" name="57.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="801.40,476.00;866.10,412.70;930.90,475.20;867.30,539.20" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="356.70,553.30;444.80,547.30;447.39,637.63;360.10,641.00" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="134.80,761.90;214.10,789.80;185.90,873.20;107.50,844.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="264.12,341.27;334.87,291.22;383.04,360.84;311.50,413.10" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1435.91,648.92;1513.99,616.62;1546.30,698.47;1466.64,732.65" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1226.60,922.70;1312.50,917.68;1315.60,1007.40;1228.50,1013.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="644.29,343.04;706.61,331.12;748.33,380.98;728.28,440.04;662.71,452.51;620.44,403.74" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="294.24,661.70;350.24,634.15;400.37,669.83;397.21,733.96;341.20,760.10;290.63,723.12" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="159.73,459.47;212.79,428.61;262.09,457.59;262.80,520.10;210.20,553.60;160.10,521.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="656.60,626.30;672.02,562.66;733.36,544.97;780.40,588.30;765.70,650.30;702.88,670.67" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1334.76,401.18;1348.30,342.10;1408.52,325.54;1452.18,368.44;1439.00,429.40;1379.90,447.10" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="265.40,955.69;286.10,915.10;328.63,901.50;375.30,925.60;385.80,970.70;365.13,1012.90;320.00,1026.40;277.45,1000.48" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1479.95,967.70;1514.20,937.97;1563.49,942.86;1591.70,980.50;1584.90,1026.80;1546.60,1055.80;1498.80,1052.00;1474.31,1017.75" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="556.63,112.31;574.50,65.90;618.09,47.40;662.60,63.40;680.50,104.50;664.51,149.95;619.35,169.70;573.90,154.30" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="422.90,237.40;448.59,197.30;495.32,186.01;533.89,209.22;545.81,254.06;521.66,294.83;470.90,308.90;432.28,283.85" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1091.20,104.50;1097.60,59.00;1137.50,32.60;1185.30,39.40;1213.50,75.90;1205.20,126.31;1166.44,150.78;1119.02,144.38" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="898.49,378.69;905.10,331.00;946.47,303.74;995.70,311.58;1022.99,352.66;1015.10,402.50;975.90,428.90;923.89,420.71" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="454.80,1149.50;454.39,1115.97;470.95,1086.24;498.05,1071.56;534.55,1070.81;560.50,1087.00;577.10,1113.30;578.20,1146.83;562.77,1174.30;540.19,1187.10;505.57,1191.99;474.34,1179.95" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="680.60,1032.73;692.27,1003.75;715.60,986.06;748.72,980.42;779.20,990.58;803.66,1016.92;807.80,1049.66;795.38,1080.52;770.54,1098.21;737.43,1103.48;706.20,1091.80;686.25,1067.73" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="960.07,734.72;959.16,703.56;975.80,670.40;1002.80,655.70;1037.40,655.70;1066.20,671.10;1083.60,699.50;1083.60,737.10;1067.45,763.13;1038.51,779.70;1004.60,780.80;976.50,764.30" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="836.99,593.32;849.53,561.96;874.31,539.38;905.04,533.73;937.97,543.14;958.98,566.98;966.19,599.59;957.72,633.77;931.07,656.04;898.45,662.00;868.00,652.30;844.51,627.19" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="997.87,535.62;1002.88,502.06;1025.15,476.34;1055.57,465.05;1086.62,469.13;1114.21,490.14;1127.40,525.30;1121.70,556.60;1099.47,580.77;1070.94,591.75;1035.50,587.67;1008.84,565.09" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="759.86,197.97;778.70,172.00;806.52,159.58;841.14,162.97;866.70,181.00;880.65,211.14;879.20,244.30;858.50,269.10;828.35,281.51;793.72,279.63;768.13,260.44;753.08,230.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="71" name="58.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="797.10,467.10;869.80,411.40;925.10,481.40;852.09,537.82" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="316.51,529.58;366.18,457.70;434.67,507.00;386.50,581.14" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="111.80,769.10;183.14,723.63;228.35,796.81;155.70,844.11" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="416.60,926.70;488.69,877.56;539.90,951.30;466.74,1000.91" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="795.00,921.90;882.20,894.70;907.32,980.16;822.65,1007.34" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1150.05,869.41;1236.56,882.99;1220.61,972.37;1133.10,957.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="571.46,452.98;581.50,391.20;642.65,366.74;691.57,405.63;681.80,469.60;621.01,494.69" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="545.39,896.80;581.90,846.70;643.98,853.15;670.70,909.97;637.20,961.20;571.35,954.75" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1025.18,805.91;1081.00,772.04;1137.45,804.03;1137.80,865.50;1081.00,899.36;1024.87,867.69" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="675.60,648.40;728.01,609.53;787.30,633.40;795.20,696.10;745.60,737.50;685.00,714.00" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="555.21,112.31;573.40,66.53;618.25,47.40;663.10,62.80;680.97,103.53;664.66,148.69;618.25,170.02;573.10,155.00" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="195.42,572.68;218.30,531.30;262.22,518.43;302.98,541.95;311.77,588.68;292.01,630.70;244.90,642.60;205.77,618.78" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="905.40,330.60;947.09,303.27;994.13,312.99;1023.90,351.90;1014.83,401.74;976.60,427.50;928.60,421.50;896.92,379.16" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1097.94,58.84;1137.45,32.82;1183.24,38.77;1213.30,75.80;1205.20,124.10;1165.68,151.36;1119.58,145.40;1090.41,105.26" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1544.04,718.26;1582.92,692.86;1625.60,698.80;1652.90,736.80;1646.90,784.40;1608.64,813.59;1561.60,808.58;1535.26,767.18" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="755.51,232.74;758.60,199.20;779.70,171.30;805.38,160.29;839.87,163.74;866.80,181.60;880.00,207.30;876.25,243.09;857.75,269.12;827.33,281.66;793.15,280.40;767.12,258.77" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1213.93,475.77;1228.23,446.42;1255.30,428.40;1285.40,426.10;1314.00,439.30;1334.40,466.40;1337.40,502.50;1324.94,529.58;1295.21,550.28;1263.98,551.41;1234.62,537.11;1214.68,508.88" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="925.36,685.92;957.03,678.40;985.57,685.30;1013.80,714.50;1019.80,743.90;1010.30,776.90;985.90,799.80;952.02,807.60;920.03,797.88;898.08,773.73;890.86,739.55;901.21,706.00" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="315.78,746.83;336.79,724.56;368.78,716.72;395.12,723.93;420.84,746.20;428.99,776.31;422.72,807.98;403.60,831.80;367.50,842.20;337.10,834.30;315.78,812.06;304.80,776.90" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1110.78,1104.08;1136.74,1083.38;1166.47,1077.36;1195.07,1083.76;1219.53,1110.10;1225.20,1142.50;1213.10,1174.10;1186.79,1194.40;1153.68,1197.78;1123.90,1188.40;1104.76,1165.04;1098.36,1130.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="72" name="59.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="758.30,513.10;791.58,429.37;875.94,459.47;844.58,546.03" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="159.10,463.20;223.77,405.22;277.71,468.88;213.70,529.10" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="279.80,1118.80;336.90,1054.80;402.10,1115.70;344.13,1179.03" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="653.56,643.59;743.57,656.45;731.02,745.20;641.96,732.97" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="798.63,921.32;884.56,894.97;910.90,980.60;825.00,1005.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="218.03,812.87;255.35,763.95;316.20,773.40;340.00,833.60;299.90,884.70;239.00,872.80" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1276.91,921.19;1329.28,879.79;1384.79,903.00;1392.32,963.84;1343.39,1005.24;1284.75,981.72" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1248.20,590.50;1305.32,568.23;1353.30,608.37;1344.21,671.72;1286.19,694.30;1237.58,654.78" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="787.30,223.40;797.35,176.07;835.29,149.10;884.22,157.57;912.44,196.14;901.46,244.75;863.83,270.15;816.16,265.13" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="562.46,109.43;580.96,66.46;625.80,46.10;670.00,61.40;687.59,102.84;670.97,148.32;626.12,168.70;581.28,153.33" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="505.35,811.90;524.20,766.70;566.82,751.37;613.20,768.90;629.85,813.47;612.92,859.25;567.10,876.20;522.91,857.06" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1546.80,722.62;1586.00,694.71;1629.27,700.35;1657.50,738.61;1650.60,787.85;1611.70,816.40;1565.93,809.80;1539.90,772.17" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1104.40,60.00;1145.92,33.05;1189.30,39.10;1219.10,77.20;1211.52,125.83;1172.32,152.48;1124.76,145.69;1096.30,106.50" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="786.30,710.90;805.50,683.00;834.95,670.12;867.88,672.94;892.97,688.62;908.96,716.85;908.33,755.11;891.10,781.40;861.90,797.10;825.54,794.31;797.90,776.70;783.50,744.40" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="214.60,185.20;225.90,156.30;249.60,134.70;277.55,128.43;307.30,135.20;327.73,161.08;331.11,196.64;319.61,224.87;295.05,246.82;267.30,250.50;239.60,239.20;220.32,218.06" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="951.95,381.38;972.70,358.50;1004.00,347.80;1039.76,354.73;1060.46,375.74;1071.75,406.47;1066.10,440.70;1045.09,461.98;1011.23,474.53;977.40,469.50;955.72,448.50;943.17,415.25" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1380.60,396.00;1405.95,377.70;1440.71,374.04;1468.94,388.42;1486.97,412.98;1490.63,448.26;1478.87,475.44;1452.21,494.52;1419.80,497.65;1392.63,483.80;1370.93,456.10;1369.37,423.96" z_order="0">
+    </polygon>
+  </image>
+  <image id="73" name="6.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="607.90,443.01;678.15,386.56;734.60,454.93;664.35,513.26" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="838.60,753.30;882.81,706.87;944.27,719.10;964.97,778.06;922.32,828.55;858.34,814.75" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1020.29,376.93;1057.00,343.10;1105.60,344.60;1139.10,380.10;1138.80,430.90;1101.83,464.11;1052.59,462.23;1020.60,427.74" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="420.18,887.26;442.80,864.40;474.43,859.35;503.60,866.87;529.00,896.67;534.96,923.64;524.92,954.37;503.28,976.64;470.67,982.91;441.80,974.40;419.24,949.67;410.10,918.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="74" name="60.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="758.60,512.80;791.52,428.49;876.80,459.80;844.51,544.84" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="409.90,583.40;469.79,516.58;535.00,576.50;473.87,644.84" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="490.50,642.30;558.90,587.80;614.67,657.70;545.68,714.15" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="663.10,663.40;705.73,585.75;784.90,629.70;741.27,708.32" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="606.10,783.60;692.10,754.80;721.40,840.60;636.97,869.82" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="798.23,922.13;884.47,895.16;911.75,982.03;824.26,1006.18" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="602.16,473.90;628.80,415.60;694.40,410.60;728.23,462.61;701.30,522.50;634.80,526.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="933.11,679.53;978.58,635.62;1041.30,651.93;1057.61,714.02;1012.80,761.40;948.79,743.19" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1101.30,730.50;1162.10,710.40;1210.39,753.07;1196.91,815.79;1135.40,836.80;1089.03,794.78" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="942.95,876.06;970.86,819.93;1033.90,814.28;1069.96,866.65;1040.17,924.98;975.88,927.81" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="635.69,932.67;688.40,901.30;743.60,932.40;747.01,995.39;692.80,1028.60;636.63,996.33" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="563.15,109.30;580.46,66.03;625.62,46.46;670.40,63.77;687.34,103.66;670.80,149.60;625.62,168.39;580.10,153.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="795.80,177.00;835.29,149.70;883.28,156.91;910.87,195.48;901.78,242.84;863.83,270.12;815.85,265.10;786.69,223.71" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1145.35,32.78;1192.10,40.90;1219.10,78.30;1210.90,124.98;1170.44,151.64;1124.03,145.05;1097.37,106.79;1105.21,57.56" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="509.18,776.15;553.71,765.17;596.05,789.01;608.60,835.40;585.38,876.82;539.28,888.42;498.83,868.03;483.15,818.80" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="429.37,882.84;474.53,878.45;513.40,907.60;518.74,956.85;488.32,996.99;441.90,998.90;404.28,969.08;399.57,920.16" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="893.40,1024.10;955.31,1014.97;996.60,1063.10;972.80,1123.40;908.79,1131.79;869.60,1085.00" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="225.50,157.10;250.30,133.90;275.40,128.60;308.30,136.80;329.33,162.77;333.40,192.56;325.56,219.53;303.30,243.68;272.25,251.52;240.26,242.11;220.82,217.97;213.90,185.40" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="436.80,398.90;470.60,363.50;517.70,361.00;553.10,394.90;552.80,443.79;523.64,477.97;472.52,481.11;438.65,447.56" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="949.85,382.73;973.10,358.60;1005.05,348.55;1037.04,355.76;1060.24,375.52;1071.84,408.45;1064.32,442.00;1045.50,465.52;1012.89,475.56;978.08,469.29;953.30,447.96;942.95,417.54" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1122.90,504.30;1147.96,486.44;1180.57,482.05;1209.11,493.66;1230.75,518.74;1237.60,555.40;1224.20,585.20;1198.80,603.40;1166.77,608.43;1135.40,595.90;1114.71,570.49;1109.07,535.99" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="803.70,685.40;835.70,669.40;868.60,671.00;894.97,689.19;910.65,718.98;908.14,752.53;890.27,781.70;861.73,796.13;826.60,794.90;798.38,777.00;784.27,745.95;786.15,711.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="75" name="61.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="858.00,553.40;947.38,564.69;936.71,655.00;846.08,644.34" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="516.83,894.66;569.52,826.29;639.80,879.60;586.45,952.36" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1397.60,345.60;1478.56,377.59;1449.08,460.07;1367.85,425.89" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="757.50,890.80;810.80,854.80;868.16,881.43;873.20,947.90;819.55,982.41;760.59,955.12" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="718.76,228.22;760.80,206.00;807.51,218.81;830.10,260.20;817.23,305.99;774.89,329.83;725.97,317.60;703.39,275.26" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1187.60,185.50;1234.60,174.20;1276.30,197.70;1289.80,241.33;1266.59,286.18;1218.90,295.30;1176.90,275.83;1162.79,228.16" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="479.61,562.96;523.82,540.38;571.20,558.60;589.10,598.70;575.25,646.69;532.00,668.30;485.90,653.90;464.87,607.81" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="190.70,798.50;213.30,756.80;258.80,744.29;298.00,767.18;310.54,812.65;290.47,854.36;245.31,868.47;204.20,845.30" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1389.71,878.51;1433.30,855.93;1478.80,871.90;1498.20,915.50;1481.90,960.40;1436.44,983.88;1391.59,966.94;1373.72,922.73" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1058.20,816.12;1083.79,795.79;1114.65,787.51;1142.50,795.79;1168.84,818.37;1177.90,853.40;1166.59,884.98;1142.90,909.10;1108.70,915.10;1076.30,904.60;1055.95,881.97;1049.17,847.35" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1304.02,603.30;1328.48,579.60;1360.09,572.45;1391.33,584.11;1410.14,605.56;1416.16,641.69;1406.76,672.17;1384.18,692.87;1351.06,700.77;1320.58,688.73;1301.38,664.65;1294.60,633.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="76" name="62.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="528.60,308.50;594.45,248.89;653.72,314.43;586.61,375.27" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="590.93,618.56;678.12,635.50;659.93,725.82;572.43,707.31" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1397.00,345.40;1478.84,378.31;1449.67,460.48;1366.57,425.35" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1185.89,480.47;1264.92,521.49;1225.03,602.78;1145.60,561.00" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1032.30,751.30;1077.18,708.35;1137.70,722.46;1154.95,782.36;1110.42,830.34;1047.07,815.29" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="900.60,428.20;945.34,409.80;993.10,425.20;1013.08,468.88;996.50,512.50;951.40,535.10;904.33,520.44;882.88,473.02" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="304.40,405.00;326.90,363.00;372.40,349.50;415.40,375.60;423.53,417.57;404.09,458.97;357.70,474.60;316.60,452.70" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="305.30,814.20;343.49,787.24;388.44,794.56;417.19,831.67;411.44,882.89;376.68,909.28;327.60,901.10;299.10,863.30" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="639.79,977.86;660.81,957.16;692.17,946.81;720.39,950.89;747.36,973.47;758.02,1002.01;754.26,1035.87;732.00,1061.00;700.30,1071.00;667.40,1064.40;642.00,1043.70;631.00,1011.10" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1020.82,960.01;1044.03,939.63;1076.96,930.85;1108.00,940.57;1129.64,964.09;1136.23,996.71;1126.50,1026.50;1103.00,1051.00;1068.80,1057.50;1036.50,1048.14;1014.60,1024.30;1009.85,992.94" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1491.00,609.50;1526.10,597.30;1556.24,603.23;1580.07,624.24;1589.79,655.91;1584.15,687.27;1564.39,712.68;1537.11,722.08;1502.61,716.13;1478.46,695.74;1468.74,663.44;1473.13,632.39" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1389.11,878.13;1430.88,855.93;1476.41,870.23;1497.86,912.76;1480.93,960.55;1438.03,983.13;1392.87,967.32;1372.17,921.79" z_order="0">
+    </polygon>
+  </image>
+  <image id="77" name="63.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="446.50,471.60;515.23,413.15;570.43,480.58;501.43,539.54" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="315.70,659.90;391.55,696.82;355.80,776.98;277.90,737.46" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1421.80,310.50;1496.46,355.01;1457.89,431.53;1379.49,385.74" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1053.88,274.13;1115.22,259.83;1160.00,304.99;1143.44,365.58;1079.84,378.75;1036.19,334.35" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="831.25,529.97;869.51,497.98;917.80,499.90;951.70,537.80;950.40,587.00;914.40,621.50;861.70,617.80;828.74,581.09" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1390.40,877.41;1434.31,855.46;1478.21,871.45;1497.97,912.85;1480.41,962.08;1437.44,983.41;1393.20,967.10;1372.84,923.20" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="545.40,710.83;569.80,692.00;602.60,687.00;632.95,699.59;653.86,723.89;658.04,757.61;646.54,789.49;620.14,809.87;585.65,813.53;556.12,803.08;536.25,777.73;531.29,740.88" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1123.09,567.10;1152.57,557.38;1188.00,564.30;1212.20,585.60;1221.90,617.60;1213.72,650.83;1191.50,676.50;1158.50,686.00;1128.73,678.43;1104.27,656.48;1094.20,627.00;1099.25,593.13" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1495.70,608.00;1526.90,598.30;1555.52,602.78;1580.73,624.60;1591.27,653.96;1585.62,687.83;1564.20,712.30;1532.20,723.60;1502.08,719.44;1478.70,698.00;1467.10,663.70;1473.85,633.26" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="658.77,957.69;692.01,947.66;719.92,952.05;746.58,971.81;758.49,1002.23;753.79,1037.04;730.90,1061.18;699.80,1071.20;667.50,1064.90;643.70,1044.20;632.11,1013.51;638.38,978.39" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1034.40,1058.17;1062.94,1048.45;1094.93,1052.53;1120.33,1071.97;1131.30,1104.30;1126.30,1135.60;1105.30,1160.70;1073.00,1173.00;1040.36,1167.31;1015.90,1147.90;1004.60,1119.00;1010.88,1085.14" z_order="0">
+    </polygon>
+  </image>
+  <image id="78" name="64.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="975.30,777.90;1063.89,764.79;1078.50,853.40;987.58,866.71" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="446.30,470.80;514.98,413.12;570.17,481.17;501.18,538.88" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="408.90,906.00;495.40,898.50;504.40,985.00;417.89,992.91" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1062.00,305.20;1124.90,291.30;1168.50,336.50;1151.20,398.90;1086.90,410.60;1043.98,366.94" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1432.70,317.30;1475.60,297.80;1520.70,316.20;1538.05,360.99;1521.12,406.52;1479.70,421.20;1437.95,406.15;1416.88,362.12" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="809.80,500.93;858.10,486.20;901.70,509.70;916.70,555.20;894.20,600.70;842.70,614.80;798.82,591.25;785.30,543.60" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1206.50,639.30;1256.06,630.20;1293.37,656.85;1300.59,707.66;1272.00,746.90;1223.44,755.01;1187.10,726.80;1179.22,677.24" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1388.73,878.51;1433.89,855.55;1478.29,871.36;1498.20,915.80;1482.81,959.80;1438.03,983.50;1393.20,967.30;1373.30,923.67" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="531.92,743.38;543.20,711.39;569.86,692.26;602.79,686.93;632.58,699.16;652.65,724.25;657.67,757.80;646.10,790.70;619.41,809.86;586.48,815.82;556.06,802.96;533.80,777.25" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="639.32,978.86;664.73,958.48;691.38,947.19;720.55,951.89;747.52,972.28;759.43,1003.32;753.48,1037.19;731.84,1059.46;699.54,1071.37;667.20,1065.10;643.40,1043.46;631.80,1012.10" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1062.72,1049.27;1095.02,1053.66;1120.42,1074.35;1131.08,1101.95;1126.40,1135.80;1105.40,1161.20;1072.80,1171.90;1040.10,1167.80;1015.40,1148.10;1005.30,1119.50;1009.41,1085.64;1031.67,1058.67" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1494.21,609.16;1524.63,599.75;1555.36,604.14;1578.88,623.27;1590.80,654.94;1582.96,689.12;1564.77,712.64;1535.60,723.90;1506.12,719.86;1481.03,696.96;1470.06,663.72;1473.19,632.05" z_order="0">
+    </polygon>
+  </image>
+  <image id="79" name="65.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="446.40,470.00;514.73,413.25;570.86,480.36;501.56,539.63" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="497.00,731.60;571.54,777.54;526.76,852.81;450.70,806.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="667.23,836.74;746.90,796.60;787.66,876.88;706.12,917.33" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1062.20,305.90;1123.20,291.63;1167.23,335.66;1151.80,398.51;1091.21,411.68;1043.79,367.65" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="899.40,790.10;958.00,767.20;1011.00,805.50;1003.82,865.71;942.99,893.94;891.55,854.74" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1207.50,639.80;1256.75,632.24;1292.50,657.83;1300.03,706.00;1272.60,747.00;1223.64,755.68;1187.89,727.08;1178.85,676.65" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1225.20,908.60;1274.09,911.44;1303.57,948.76;1298.86,995.48;1261.54,1027.16;1212.00,1024.60;1181.60,988.30;1185.02,938.09" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="811.76,500.12;857.06,487.84;900.73,509.65;914.64,556.35;893.55,600.74;843.87,615.05;800.25,590.94;785.93,543.52" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1475.36,631.27;1492.67,610.57;1524.28,599.65;1555.89,604.17;1578.10,622.23;1590.50,653.10;1585.20,687.00;1566.05,712.55;1537.08,723.46;1498.31,718.57;1481.00,700.89;1467.80,666.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="80" name="66.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="446.00,470.80;513.33,414.73;571.70,481.30;500.91,538.92" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="666.07,837.08;746.98,797.57;788.10,876.90;706.50,917.70" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="497.10,733.20;571.74,777.75;526.90,854.90;451.32,808.17" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1063.00,304.90;1124.40,291.10;1169.30,338.40;1151.72,397.69;1088.37,410.86;1043.84,366.96" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="810.39,500.55;856.50,486.40;900.71,509.02;915.45,556.69;892.24,600.59;843.95,614.39;799.73,591.81;785.93,541.64" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="917.50,822.90;963.80,812.40;1005.60,834.20;1019.50,883.10;995.06,924.50;947.30,939.50;903.99,913.58;891.57,863.91" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="776.11,314.40;798.69,293.70;829.17,284.29;863.42,292.57;886.00,313.27;893.53,345.64;886.38,378.38;861.54,403.59;829.17,411.12;799.82,405.09;774.61,379.13;764.80,348.60" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1187.70,587.00;1223.20,583.00;1252.60,596.10;1271.10,622.20;1273.30,656.70;1257.97,686.77;1233.51,705.90;1199.95,708.41;1170.79,695.24;1152.60,668.58;1149.15,635.03;1163.26,603.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="81" name="67.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="446.60,468.70;513.55,414.16;571.90,481.50;499.63,538.73" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="397.80,817.50;448.52,744.88;520.65,795.84;472.04,870.84" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="618.29,982.35;705.57,955.44;733.50,1040.90;647.56,1067.03" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1044.70,585.80;1130.02,611.88;1104.00,699.10;1018.10,673.70" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="729.56,677.29;783.75,646.81;840.58,677.29;840.20,742.02;784.13,774.76;729.18,742.02" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1291.20,477.30;1348.40,453.60;1398.10,493.50;1389.03,556.72;1331.83,579.67;1284.79,540.91" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1070.56,301.32;1114.78,281.57;1159.30,298.20;1182.20,343.03;1164.64,389.44;1118.85,409.52;1074.01,392.27;1052.37,344.91" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="775.58,315.79;800.80,292.46;832.41,284.18;864.02,293.59;885.85,314.29;893.37,342.14;884.72,380.90;864.02,401.59;830.15,409.50;798.16,403.10;775.96,380.90;766.93,344.77" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1086.68,867.16;1122.10,872.50;1145.32,889.74;1157.55,920.16;1152.50,953.40;1130.90,979.74;1100.16,991.97;1066.00,987.60;1041.83,967.51;1031.17,935.52;1036.19,906.04;1056.26,878.45" z_order="0">
+    </polygon>
+  </image>
+  <image id="82" name="68.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="692.60,671.60;765.58,620.01;817.50,694.50;742.62,744.20" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1044.47,586.29;1128.83,611.38;1104.37,698.88;1018.44,673.79" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1258.40,757.60;1345.00,769.90;1331.20,857.70;1243.67,847.65" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="903.70,898.30;994.00,888.90;1005.00,976.80;915.00,987.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="616.71,975.60;703.27,954.59;725.85,1041.46;638.40,1060.90" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="417.76,793.77;462.92,751.44;517.80,768.06;534.42,830.78;490.83,874.68;430.93,854.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1286.44,431.44;1348.16,437.46;1377.14,494.66;1341.76,546.59;1278.92,542.08;1249.94,482.99" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1060.02,292.95;1100.16,264.72;1148.14,274.45;1177.31,313.02;1168.84,361.94;1130.27,389.23;1081.03,381.39;1052.50,340.62" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="775.30,316.20;800.36,292.64;831.09,284.48;864.60,292.90;886.60,315.80;894.75,345.32;885.35,380.13;862.45,402.71;832.03,411.80;800.05,405.22;774.64,379.19;766.18,345.01" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="478.92,465.78;504.00,444.76;535.99,439.43;565.16,450.10;585.85,475.18;590.24,506.23;579.58,540.41;552.93,561.11;521.25,567.38;491.15,556.09;472.96,531.01;466.70,498.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="83" name="69.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="669.30,720.30;758.10,706.80;772.40,794.80;685.50,810.20" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1101.00,648.40;1181.90,686.06;1144.60,767.00;1063.40,730.10" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="524.10,1063.60;605.00,1031.80;637.00,1114.60;556.10,1144.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1020.70,1073.00;1105.10,1038.50;1135.80,1122.00;1053.60,1154.00" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="296.71,861.20;353.90,834.50;404.30,869.10;400.96,934.21;344.51,960.92;292.20,924.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1234.51,940.57;1295.90,925.90;1337.62,969.54;1319.18,1029.38;1257.47,1045.94;1215.70,1002.28" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1483.80,638.70;1533.00,603.67;1585.38,628.96;1591.03,691.05;1541.35,728.31;1487.88,703.11" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1088.80,336.70;1122.60,303.20;1170.40,303.60;1205.40,335.90;1206.90,387.50;1173.81,419.47;1126.02,422.10;1091.77,390.87" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="766.65,345.73;776.05,315.31;799.89,292.73;830.31,284.58;862.30,291.80;887.40,315.90;894.90,347.30;887.07,377.40;867.60,400.90;832.50,409.39;796.13,402.49;773.55,379.28" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="388.70,525.90;405.30,498.60;432.30,481.70;464.62,482.30;491.27,497.67;509.46,526.21;508.83,556.94;493.15,587.99;465.24,604.29;430.40,604.90;403.46,589.24;388.10,560.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="84" name="7.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="848.59,698.75;936.40,681.82;954.28,770.57;866.50,788.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1309.55,886.30;1340.80,829.90;1402.50,829.50;1432.99,883.67;1401.75,938.61;1339.28,940.49" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="631.26,411.11;653.20,366.90;700.88,352.16;744.20,372.50;758.90,418.60;736.90,462.20;687.70,477.60;646.32,456.59" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1245.26,414.73;1244.47,385.99;1261.46,354.36;1287.60,337.60;1320.00,337.12;1348.50,353.30;1366.30,383.40;1367.30,417.60;1353.20,442.40;1325.50,459.70;1290.73,459.42;1265.12,444.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="85" name="70.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="833.00,585.00;920.85,613.55;891.10,702.00;803.87,670.62" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="499.36,747.30;588.40,746.40;590.30,835.70;502.19,836.36" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="522.76,1063.32;605.20,1031.00;638.48,1112.24;556.60,1143.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="689.52,1016.92;755.75,959.72;813.70,1025.60;746.30,1084.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1061.06,692.17;1127.23,631.95;1188.69,695.93;1122.84,759.59" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="202.70,559.30;259.50,531.50;308.00,567.60;303.90,629.70;245.60,658.30;197.78,621.82" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1482.13,638.64;1533.31,602.89;1587.13,629.23;1591.30,691.70;1541.22,728.21;1487.78,704.50" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1258.20,884.20;1295.50,833.10;1358.90,843.40;1379.90,902.10;1341.30,951.30;1273.90,940.98" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1088.10,338.90;1120.90,304.20;1171.70,304.20;1205.20,334.00;1207.80,387.80;1174.68,419.39;1124.25,422.41;1089.25,388.54" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="883.02,806.22;930.38,793.99;972.72,819.39;984.90,864.60;959.23,909.08;909.99,920.37;869.23,894.97;857.62,846.36" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="776.40,314.10;799.90,291.90;830.00,283.80;862.90,291.90;887.00,315.90;894.28,346.79;885.66,380.24;862.92,401.93;830.78,410.55;798.64,404.80;775.11,380.50;766.23,345.48" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="404.20,498.50;433.10,481.30;465.70,481.90;493.62,498.86;508.36,527.09;509.93,558.45;493.62,586.04;469.79,603.60;431.53,605.17;402.99,588.24;387.30,560.00;387.00,527.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="86" name="71.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="828.02,779.97;911.44,747.67;945.62,832.35;859.69,864.65" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1145.70,919.53;1229.20,947.80;1198.39,1032.43;1113.34,1003.45" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="735.66,597.27;739.11,566.22;759.18,538.94;790.23,525.45;823.16,528.59;848.56,547.09;862.04,575.63;857.97,611.07;840.41,638.04;810.61,651.52;774.24,649.33;748.52,629.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="87" name="72.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1128.40,931.30;1209.30,967.00;1170.90,1046.00;1088.90,1010.30" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="602.59,642.29;666.94,643.42;698.93,699.12;666.56,753.68;600.71,753.68;568.72,697.61" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1254.90,714.90;1301.90,706.10;1341.10,735.91;1347.69,782.64;1317.58,824.98;1268.98,831.88;1235.42,808.36;1226.01,755.67" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1020.60,443.73;1044.10,419.00;1075.80,411.43;1106.22,419.58;1130.99,442.79;1139.77,471.33;1133.50,505.51;1106.53,530.91;1077.68,537.81;1044.44,531.85;1022.48,508.65;1010.60,473.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="88" name="73.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1105.50,377.30;1196.13,383.89;1189.54,473.58;1098.91,467.94" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="892.02,886.75;971.80,925.51;931.16,1006.05;849.87,966.16" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1337.50,661.10;1399.40,648.50;1440.50,697.20;1418.79,757.75;1357.82,768.59;1318.54,718.01" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="601.60,808.20;612.20,778.10;636.10,757.10;669.30,750.84;700.35,760.88;721.99,784.08;729.20,815.44;720.10,847.10;694.40,871.30;662.40,877.80;629.80,867.80;607.84,841.47" z_order="0">
+    </polygon>
+  </image>
+  <image id="89" name="74.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1108.63,380.45;1197.82,387.22;1192.90,476.40;1101.48,471.14" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="628.86,678.68;718.05,690.35;706.00,781.04;616.10,767.10" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1255.13,1023.36;1293.90,973.70;1355.60,984.20;1374.80,1042.50;1335.30,1091.80;1271.32,1080.93" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="393.10,1011.80;441.82,940.42;515.43,989.19;466.66,1061.45" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="804.04,426.32;840.90,394.30;889.50,398.50;921.80,434.20;919.57,482.77;883.80,516.60;831.88,513.63;799.52,475.99" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1384.10,684.00;1405.10,659.10;1437.90,650.80;1467.98,660.24;1489.06,679.43;1499.20,711.80;1491.30,746.00;1468.40,770.50;1434.11,778.78;1405.89,770.13;1385.94,749.05;1376.16,714.81" z_order="0">
+    </polygon>
+  </image>
+  <image id="90" name="75.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1109.20,381.12;1198.76,387.90;1193.12,475.58;1103.18,469.56" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="806.70,731.80;884.12,685.67;931.16,763.45;853.39,809.86" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="554.93,1093.01;598.52,1049.42;659.40,1062.90;677.20,1122.50;635.80,1169.20;572.18,1152.91" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="804.37,426.51;840.50,395.65;888.67,398.66;921.79,433.66;918.78,482.96;884.15,514.94;831.47,514.57;799.11,474.68" z_order="0">
+    </polygon>
+  </image>
+  <image id="91" name="76.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1371.00,555.47;1454.55,581.82;1430.84,666.11;1346.92,641.65" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="969.90,655.40;1019.56,616.63;1080.14,639.21;1089.90,704.70;1040.25,742.69;978.54,720.12" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="508.47,745.74;547.98,696.44;609.70,705.50;631.50,766.10;593.14,814.99;531.05,806.33" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="804.19,426.58;841.40,395.30;890.00,398.00;921.22,434.49;919.34,483.41;882.84,515.77;831.66,514.27;799.67,476.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="92" name="77.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="309.60,845.80;395.39,852.62;387.50,941.40;303.20,933.50" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="655.20,437.90;717.10,421.60;759.11,466.80;742.85,528.21;680.50,544.90;636.73,499.76" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="969.00,654.90;1020.20,616.50;1080.00,639.10;1089.82,704.95;1040.14,743.33;978.42,721.13" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1283.70,512.01;1299.90,466.80;1346.20,449.20;1390.90,470.60;1407.88,515.02;1388.69,559.43;1342.78,576.36;1301.38,556.41" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1142.50,950.30;1155.70,922.40;1182.05,902.48;1211.00,897.20;1243.00,907.70;1263.71,934.09;1266.73,965.33;1255.44,995.81;1227.59,1016.88;1195.22,1022.53;1165.49,1010.49;1145.55,986.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="93" name="78.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1332.02,620.92;1414.06,588.93;1445.29,671.34;1361.75,702.58" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1028.70,343.90;1041.10,283.00;1100.54,262.66;1149.46,305.56;1137.80,366.90;1078.34,386.84" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="968.24,657.10;1018.82,617.36;1079.78,639.48;1090.17,703.16;1040.04,744.25;977.72,720.32" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="656.14,473.96;691.14,440.09;738.93,439.34;775.40,471.00;775.80,522.10;741.57,555.62;691.51,557.88;657.60,523.30" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1140.50,947.50;1160.40,918.60;1188.84,905.02;1221.35,906.82;1249.35,923.98;1263.35,953.79;1260.64,986.30;1243.50,1014.30;1211.40,1030.10;1175.29,1026.49;1154.52,1010.24;1137.36,981.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="94" name="79.png" width="1920" height="1200">
+    <polygon label="szesciokat" source="manual" occluded="0" points="968.87,656.93;1019.70,615.50;1080.60,638.90;1089.30,704.00;1039.61,743.86;977.52,719.78" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="760.70,993.40;849.20,976.40;866.20,1062.00;778.40,1079.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1041.26,283.86;1100.42,263.08;1150.10,305.10;1137.00,366.50;1079.60,383.70;1029.07,345.27" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="656.59,475.54;690.50,439.40;739.00,438.30;774.38,470.27;775.13,521.08;740.50,555.30;690.80,557.20;658.10,525.22" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1140.00,947.10;1159.70,919.20;1187.00,905.70;1222.80,906.00;1249.40,925.80;1263.24,954.97;1260.41,987.27;1241.91,1014.86;1210.55,1028.98;1176.68,1026.47;1152.85,1010.16;1139.05,986.33" z_order="0">
+    </polygon>
+  </image>
+  <image id="95" name="8.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="490.90,1024.30;553.40,963.70;615.90,1026.60;554.20,1089.40" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1096.90,766.50;1153.70,741.60;1205.65,775.51;1199.60,839.10;1141.67,868.09;1091.62,832.33" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="352.53,592.44;382.60,553.20;431.00,549.80;466.70,580.50;469.20,624.10;439.10,666.50;392.00,670.20;356.60,639.80" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="799.82,489.32;813.70,462.90;840.00,442.90;876.70,440.10;905.50,454.20;924.90,480.30;927.20,514.20;913.02,543.62;887.00,563.70;855.00,565.30;822.10,553.97;803.30,526.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="96" name="80.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="216.30,812.60;269.40,743.70;337.90,797.90;283.70,867.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="969.00,655.10;1019.00,616.70;1079.96,639.28;1089.40,704.40;1040.40,743.50;978.35,719.06" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1041.30,282.98;1100.88,263.22;1148.55,303.67;1137.58,367.02;1076.10,387.40;1027.50,344.76" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="671.40,469.60;709.30,439.00;759.70,445.05;788.20,481.60;781.90,531.50;744.00,561.30;694.90,556.40;664.83,517.44" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1079.18,952.93;1094.86,924.70;1125.28,909.02;1156.64,908.71;1185.80,925.00;1202.10,951.40;1202.74,982.09;1186.40,1012.20;1156.96,1029.13;1123.40,1030.39;1094.50,1014.70;1078.60,986.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="97" name="81.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="216.50,812.80;269.60,743.50;336.40,797.40;283.70,868.60" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="969.20,656.00;1019.35,617.12;1079.90,638.10;1089.30,703.70;1040.40,744.10;977.64,719.67" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1039.80,283.90;1102.27,263.97;1148.90,304.20;1138.80,367.10;1075.60,387.80;1028.10,344.10" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="365.60,576.60;396.70,540.50;446.80,538.70;480.40,567.20;483.20,618.30;454.40,654.70;403.20,657.50;368.40,625.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="230.54,323.71;255.30,282.00;300.70,270.40;338.70,295.20;348.46,335.00;324.31,378.91;277.90,389.88;239.95,368.87" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1079.78,985.07;1078.80,955.00;1097.34,925.49;1124.60,908.60;1157.20,907.90;1184.50,923.00;1201.50,949.60;1202.71,984.44;1186.40,1012.00;1157.55,1030.23;1124.31,1030.23;1095.10,1015.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="98" name="82.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="605.70,544.70;692.90,562.60;673.40,651.00;586.30,633.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="216.50,812.80;268.58,744.16;337.57,798.10;283.95,868.98" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1030.10,343.30;1040.74,283.70;1100.95,263.00;1148.61,304.08;1138.58,365.86;1077.10,386.90" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="851.48,1041.21;874.37,1002.32;921.72,988.52;965.63,1011.41;977.20,1054.70;953.70,1098.00;907.30,1110.50;864.02,1087.62" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1014.40,816.20;1050.15,784.20;1098.70,784.20;1132.94,820.71;1130.68,871.51;1094.56,903.50;1043.00,901.62;1010.64,865.87" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1481.41,653.09;1511.80,616.40;1558.60,613.60;1592.43,644.31;1595.25,693.23;1562.60,731.20;1515.30,732.40;1483.92,701.07" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="367.70,653.40;374.30,621.10;395.70,597.90;426.40,588.20;461.50,596.00;484.70,618.60;492.20,647.50;483.46,682.29;463.39,702.67;429.84,714.27;399.42,708.00;377.47,685.74" z_order="0">
+    </polygon>
+  </image>
+  <image id="99" name="83.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="216.50,811.70;269.46,744.26;336.90,797.90;283.90,867.80" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="389.60,673.70;433.50,629.80;495.30,646.40;510.30,704.70;466.75,753.32;404.03,734.82" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1041.08,281.94;1100.98,263.75;1149.59,303.89;1136.70,366.90;1075.90,387.00;1029.16,344.35" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="733.28,315.72;767.80,280.60;816.38,279.03;851.20,311.30;851.82,361.82;818.89,395.37;771.23,397.88;733.91,364.01" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="851.30,1041.95;875.39,999.05;921.30,986.63;963.82,1009.21;976.60,1054.80;955.54,1097.64;908.50,1110.81;864.85,1087.48" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1156.58,1015.80;1170.07,989.46;1196.09,970.96;1226.51,966.88;1255.05,980.99;1274.50,1002.90;1280.10,1034.60;1265.70,1067.80;1239.10,1087.00;1206.13,1091.38;1176.34,1079.47;1157.52,1053.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="100" name="84.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="311.86,580.19;374.63,520.13;435.14,582.00;370.56,643.86" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="795.80,825.30;858.70,762.80;923.80,820.70;860.94,886.60" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1112.21,908.90;1195.90,940.90;1163.01,1023.05;1077.40,992.32" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1221.10,526.60;1307.40,522.50;1313.30,610.90;1227.08,617.18" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="729.33,316.32;763.20,281.30;812.90,279.80;846.00,310.30;846.75,361.10;815.14,395.35;763.96,398.36;729.34,366.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="101" name="85.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="1051.50,338.80;1136.80,365.80;1111.39,449.53;1024.80,421.90" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1221.75,533.01;1307.36,522.98;1318.00,611.40;1231.47,622.70" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="796.81,823.91;857.77,761.44;923.25,819.01;862.80,887.10" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1110.70,908.50;1195.40,938.90;1162.48,1022.64;1077.18,993.16" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1366.40,984.70;1449.86,1005.74;1425.71,1090.41;1341.98,1070.03" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="779.16,396.82;802.87,354.67;849.53,339.99;893.19,362.95;907.49,408.48;884.50,451.40;837.87,465.68;792.71,444.61" z_order="0">
+    </polygon>
+  </image>
+  <image id="102" name="86.png" width="1920" height="1200">
+    <polygon label="szesciokat" source="manual" occluded="0" points="1450.60,352.45;1469.04,298.63;1530.00,287.70;1569.10,333.60;1550.70,392.00;1493.12,402.12" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="834.25,336.60;922.30,359.20;898.61,445.74;810.17,423.16" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1246.20,533.00;1332.14,527.09;1340.00,615.20;1252.48,622.42" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="796.80,824.60;857.81,760.65;922.90,820.90;861.58,887.09" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="297.62,487.13;330.00,448.70;374.76,445.74;411.27,474.71;413.90,523.64;386.43,563.53;335.63,566.91;300.60,533.80" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1394.98,1065.07;1472.44,1098.94;1436.38,1179.22;1357.00,1145.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="103" name="87.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="822.60,563.40;906.00,599.10;869.01,684.73;784.60,647.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1040.80,706.00;1126.76,732.02;1100.41,816.70;1014.50,790.40" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="850.90,872.60;930.30,911.40;888.90,991.60;809.90,950.50" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="603.45,348.93;644.84,300.63;706.62,311.92;727.95,369.94;689.69,416.67;623.83,408.20" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="298.00,487.00;328.50,449.80;375.90,444.90;410.51,473.47;415.03,524.65;385.30,560.78;335.63,566.80;300.25,532.93" z_order="0">
+    </polygon>
+  </image>
+  <image id="104" name="88.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="785.62,646.69;823.30,564.70;906.67,601.22;870.29,685.27" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1042.00,705.70;1127.00,731.40;1100.00,818.50;1014.08,792.52" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="973.72,1038.20;1052.40,1075.50;1013.20,1154.20;932.40,1115.40" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="297.47,486.38;328.70,449.90;375.00,445.00;412.24,476.22;415.26,522.13;386.65,563.53;337.00,566.50;299.72,532.67" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="799.90,229.80;815.20,200.00;841.90,183.70;873.90,180.50;901.90,191.40;924.60,218.60;928.20,254.10;912.33,282.59;887.50,299.30;850.92,302.01;825.18,292.08;802.60,263.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="105" name="89.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="823.28,563.40;906.13,600.26;870.30,684.90;784.70,647.30" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1041.67,704.78;1127.38,732.57;1100.76,815.94;1014.17,791.66" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="973.10,1036.61;1052.37,1076.39;1011.97,1153.91;931.56,1115.01" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="1294.07,668.33;1338.80,623.00;1398.80,639.90;1413.10,701.10;1369.80,747.00;1307.82,730.06" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="725.87,889.81;789.35,883.08;827.09,929.89;802.22,988.98;737.90,994.80;701.59,943.93" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="298.29,488.49;329.20,450.50;374.47,445.45;411.79,477.36;414.50,523.70;384.23,562.21;335.71,565.86;300.36,534.16" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="510.92,279.90;548.65,251.23;597.21,257.08;622.96,291.31;617.98,340.45;579.66,370.58;531.70,367.10;503.02,329.04" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="801.50,227.80;817.10,199.40;843.10,183.00;874.70,181.00;906.57,196.47;925.59,222.79;925.59,253.22;913.01,283.93;888.14,299.73;853.33,302.36;824.95,290.08;805.06,262.87" z_order="0">
+    </polygon>
+  </image>
+  <image id="106" name="9.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="594.20,505.65;681.96,511.50;677.57,599.55;587.47,595.17" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="825.30,617.00;885.31,595.05;935.90,633.40;925.97,699.78;865.71,722.89;815.39,681.64" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="492.54,1009.49;523.55,974.09;567.43,971.75;607.51,1003.34;610.73,1050.44;580.60,1087.30;532.60,1088.80;495.47,1057.17" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="1292.00,724.30;1312.20,697.30;1343.19,685.94;1374.20,691.50;1398.77,708.76;1413.10,740.94;1406.96,776.92;1386.77,801.20;1356.06,813.49;1325.34,809.68;1299.60,789.50;1286.14,756.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="107" name="90.png" width="1920" height="1200">
+    <polygon label="czworokat" source="manual" occluded="0" points="822.70,564.10;905.53,599.17;870.43,684.48;785.47,647.27" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1041.10,705.40;1127.43,732.11;1100.40,818.47;1014.04,791.44" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1326.40,689.10;1395.92,741.75;1343.56,813.75;1273.34,760.21" z_order="0">
+    </polygon>
+    <polygon label="czworokat" source="manual" occluded="0" points="1207.54,301.54;1295.59,305.06;1293.84,392.82;1204.90,389.00" z_order="0">
+    </polygon>
+    <polygon label="szesciokat" source="manual" occluded="0" points="650.30,1048.80;704.17,1021.86;758.60,1054.00;757.99,1114.01;703.00,1143.85;649.50,1110.50" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="297.80,486.40;329.75,449.91;374.33,446.05;410.49,475.18;412.24,522.58;387.32,563.30;336.80,566.80;299.91,536.62" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="549.89,251.64;595.90,256.20;624.70,295.20;615.88,340.45;579.73,370.99;532.33,367.83;503.90,328.90;510.92,279.37" z_order="0">
+    </polygon>
+    <polygon label="osmiokat" source="manual" occluded="0" points="1492.47,518.81;1514.73,475.52;1558.00,463.80;1599.25,487.80;1611.00,532.00;1589.04,575.86;1543.40,587.30;1503.29,563.57" z_order="0">
+    </polygon>
+    <polygon label="dwunastokat" source="manual" occluded="0" points="874.60,298.60;887.10,271.60;914.10,250.90;945.70,248.20;977.00,261.40;996.30,285.10;1000.90,318.70;988.95,347.71;960.28,369.06;926.64,372.87;896.22,358.53;877.49,330.16" z_order="0">
+    </polygon>
+  </image>
+  <image id="108" name="91.png" width="1920" height="1200">
+  </image>
+  <image id="109" name="92.png" width="1920" height="1200">
+  </image>
+  <image id="110" name="93.png" width="1920" height="1200">
+  </image>
+  <image id="111" name="94.png" width="1920" height="1200">
+  </image>
+  <image id="112" name="95.png" width="1920" height="1200">
+  </image>
+  <image id="113" name="96.png" width="1920" height="1200">
+  </image>
+  <image id="114" name="97.png" width="1920" height="1200">
+  </image>
+  <image id="115" name="98.png" width="1920" height="1200">
+  </image>
+  <image id="116" name="99.png" width="1920" height="1200">
+  </image>
+</annotations>
