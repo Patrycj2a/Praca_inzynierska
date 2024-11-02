@@ -14,11 +14,11 @@ commands in the terminal
 '''
 
 
-#detection before training
+#load for training
 
-#model = torch.hub.load('ultralytics/yolov5', 'yolov5s', autoshape=False)
+model = torch.hub.load('ultralytics/yolov5', 'yolov5s', autoshape=False)
 
-img = r"dataset_creating\undistorted_dataset_cropping\56.png"
+#img = r"dataset_creating\undistorted_dataset_cropping\56.png"
 #img2 = r"datasets\tableobjects\train\images\WhatsApp-Video-2023-12-18-at-09_44_34_c58a1a04_mp4-33_jpg.rf.d08bb727b98f29da186e2d69515411aa.jpg"
 
 #results.print()
