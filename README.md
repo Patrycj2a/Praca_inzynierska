@@ -36,7 +36,9 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 - **dataset_creating**: Zawiera podfoldery z obrazami oraz etykietami przed i po dystorsji, po augumentacji oraz skrypty w języku Python użyte podczas ich przetwarzania.
 - **datasets**: Końcowy zbiór danych użyty do trenowania modeli.
 - **docker**: Obraz kontenera stworzonego do uruchomienia środowiska trenowania modeli.
+- **scripts**: skrypty w języku Python użyte podczas przetwarzania obrazów i etykiet oraz trenowania modeli.
 - **training_results**: Wyniki trenowania trzech modeli YOLO przed wdrożeniem na kamerze.
+- **yolov5**: submoduł repozytorium ultralytics yolov5.
 
 ## Dane projektu
 **Autor**: Patrycja Lewicka  
