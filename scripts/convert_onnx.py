@@ -1,6 +1,6 @@
 import torch
 
-weights = r"C:\Users\Pati\Desktop\STUDIA_AIR\III_rok\VI_semestr\Inzynierka\ultralytics_yolov5\yolov5\runs\train\exp6\weights\best.pt"
+weights = r"yolov5\runs\train\exp6\weights\best.pt"
 
 # Model
 model = torch.hub.load('ultralytics/yolov5', 'custom', path=weights)
