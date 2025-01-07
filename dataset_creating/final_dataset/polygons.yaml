@@ -1,0 +1,12 @@
+names:
+  0: czworokat
+  1: szesciokat
+  2: osmiokat
+  3: dwunastokat
+nc: 4
+path: ../datasets/polygons
+train: train/images
+val: val/images
+test: test/images
+
+
