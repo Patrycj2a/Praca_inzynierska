@@ -32,9 +32,9 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 - Zrealizowano prosty system estymacji pozycji 2D wykrytych obiektów przy wykorzystaniu współrzędnych detekcji, co stanowi bazę do dalszej integracji z systemami robotycznymi.
 
 ## Zawartość repozytorium (foldery)
+- **camera_files**: Wyniki detekcji na kamerze Luxonis Oak-D Pro PoE oraz pliki konfiguracyjne, użyte do implementacji na sprzęcie.
 - **dataset_creating**: Zawiera podfoldery z obrazami oraz etykietami przed i po dystorsji, po augumentacji oraz skrypty w języku Python użyte podczas ich przetwarzania.
 - **datasets**: Końcowy zbiór danych użyty do trenowania modeli.
 - **docker**: Obraz kontenera stworzonego do uruchomienia środowiska trenowania modeli.
 - **training_results**: Wyniki trenowania trzech modeli YOLO przed wdrożeniem na kamerze.
-- **camera_results**: Wyniki detekcji na kamerze Luxonis Oak-D Pro PoE
-- 
+  
