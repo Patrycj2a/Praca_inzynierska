@@ -42,7 +42,7 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 
 ## Dane projektu
 **Autor**: Patrycja Lewicka  
-**Promotor**: dr inż. Anna Wójcicka.  
+**Promotor**: dr inż. Anna Wójcicka  
 Projekt powstawał we współpracy z Maciejem Aleksandrowiczem [@macmacal](https://macmacal.github.io/)  
 **Kierunek**: Automatyka i Robotyka  
 **Wydział**: Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej  
