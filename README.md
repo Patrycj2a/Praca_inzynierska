@@ -43,5 +43,5 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 **Promotor**: dr inż. Anna Wójcicka.  
 Projekt powstawał we współpracy z Maciejem Aleksandrowiczem [@macmacal](https://macmacal.github.io/)  
 **Kierunek**: Automatyka i Robotyka  
-**Wydział**: Eleketrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej  
+**Wydział**: Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej  
 **Uczelnia**: Akademia Górniczo-Hutnicza im. S. Staszica w Krakowie  
