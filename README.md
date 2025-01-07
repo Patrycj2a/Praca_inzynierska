@@ -39,9 +39,9 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 - **training_results**: Wyniki trenowania trzech modeli YOLO przed wdrożeniem na kamerze.
 
 ## Dane projektu
-Autor: Patrycja Lewicka  
-Promotor: dr inż. Anna Wójcicka.  
+**Autor**: Patrycja Lewicka  
+**Promotor**: dr inż. Anna Wójcicka.  
 Projekt powstawał we współpracy z Maciejem Aleksandrowiczem [@macmacal](https://macmacal.github.io/)  
-Kierunek: Automatyka i Robotyka  
-Wydział: Eleketrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej  
-Uczelnia: Akademia Górniczo-Hutnicza im. S. Staszica w Krakowie  
+**Kierunek**: Automatyka i Robotyka  
+**Wydział**: Eleketrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej  
+**Uczelnia**: Akademia Górniczo-Hutnicza im. S. Staszica w Krakowie  
