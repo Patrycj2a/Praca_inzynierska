@@ -37,4 +37,10 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 - **datasets**: Końcowy zbiór danych użyty do trenowania modeli.
 - **docker**: Obraz kontenera stworzonego do uruchomienia środowiska trenowania modeli.
 - **training_results**: Wyniki trenowania trzech modeli YOLO przed wdrożeniem na kamerze.
-  
+
+## Dane projektu
+Autor: Patrycja Lewicka
+Promotor: dr inż. Anna Wójcicka
+Kierunek: Automatyka i Robotyka
+Wydział: Eleketrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej
+Uczelnia: Akademia Górniczo-Hutnicza im. S. Staszica w Krakowie
