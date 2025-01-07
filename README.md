@@ -22,14 +22,14 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 - Zbiór uwzględnia różnorodne konfiguracje, kształty oraz liczby obiektów.
 
 ### Adaptacja i ocena modeli
-- Przeprowadzono adaptację trzech pre-trenowanych modeli YOLO (YOLOv5, YOLOv8, YOLOv10) od Ultralytics przy użyciu autorskiego zbioru danych.
+- Przeprowadzono adaptację trzech **pre-trenowanych modeli YOLO (YOLOv5, YOLOv8, YOLOv10) od Ultralytics** przy użyciu autorskiego zbioru danych.
 
 ### Wdrożenie na kamerze i testy
 - Modele YOLOv8 i YOLOv10 wdrożono na kamerze **Luxonis OAK-D Pro** z wbudowanymi jednostkami przetwarzania SI.
 - Przeprowadzono testy w warunkach **oświetlenia naturalnego i sztucznego** na podstawie **30 próbek** dla każdego modelu.
 
 ### Estymacja pozycji 2D
-- Zrealizowano prosty system estymacji pozycji 2D wykrytych obiektów przy wykorzystaniu współrzędnych detekcji, co stanowi bazę do dalszej integracji z systemami robotycznymi.
+- Zrealizowano prosty system **estymacji pozycji 2D** wykrytych obiektów przy wykorzystaniu współrzędnych detekcji, co stanowi bazę do dalszej integracji z systemami robotycznymi.
 
 ## Zawartość repozytorium (foldery)
 - **camera_files**: Wyniki detekcji na kamerze Luxonis Oak-D Pro PoE oraz pliki konfiguracyjne, użyte do implementacji na sprzęcie.
@@ -40,7 +40,7 @@ Dodatkowym celem jest porównanie kilku wersji pre-trenowanych modeli YOLO w cel
 
 ## Dane projektu
 Autor: Patrycja Lewicka  
-Promotor: dr inż. Anna Wójcicka  
+Promotor: dr inż. Anna Wójcicka. Projekt powstawał we współpracy z Maciejem Aleksandrowiczem @macal 
 Kierunek: Automatyka i Robotyka  
 Wydział: Eleketrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej  
 Uczelnia: Akademia Górniczo-Hutnicza im. S. Staszica w Krakowie  
